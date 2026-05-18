@@ -20,8 +20,17 @@
             <button class="button2" onclick="setter('image', 'src', './img/pexels-pat-whelen-2913248-8650941.jpg')">2. Bild</button>
         </div>
         <div class="sliderContainer">
-            <input type="range" min="0" max="5" value="100" class="slider" id="myRange">
+            <input type="range" min="0" max="5" value="100" class="slider" id="myRange" step="1" list="markers">
         </div>
     </div>
+
+    <datalist id="markers">
+        <option value="0" label="Null"></option>
+        <option value="1" label="Eins"></option>
+        <option value="2" label="Zwei"></option>
+        <option value="3" label="Drei"></option>
+        <option value="4" label="Vier"></option>
+        <option value="5" label="Fünf"></option>
+    </datalist>
 </body>
 </html>
