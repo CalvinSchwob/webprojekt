@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="./img/style.css">
+    <link rel="stylesheet" href="./testing.css">
     <script src="./script.js" defer></script>
     <script src="./utils.js" defer></script>
 </head>
@@ -13,12 +14,23 @@
 
     <div>
         <div class="img-container">
-            <img src="./img/pexels-ashford-marx-1565533-33140794.jpg" alt="Image" class="image">
+            <img src="./img/beach.jpg" alt="Image" class="image" id="image">
         </div>
         <div class="buttons-container">
             <button class="button1" onclick="setter('image', 'src', './img/pexels-ashford-marx-1565533-33140794.jpg')">1. Bild</button>
             <button class="button2" onclick="setter('image', 'src', './img/pexels-pat-whelen-2913248-8650941.jpg')">2. Bild</button>
         </div>
+        <div class="sliderContainer">
+            <input type="range" min="0" max="4" value="0" class="slider" id="slider" step="1" list="markers">
+        </div>
     </div>
+
+    <datalist id="markers">
+        <option value="1" label="Eins"></option>
+        <option value="2" label="Zwei"></option>
+        <option value="3" label="Drei"></option>
+        <option value="4" label="Vier"></option>
+        <option value="5" label="Fünf"></option>
+    </datalist>
 </body>
 </html>
