@@ -4,6 +4,8 @@
 
 Der Weißabgleich sorgt dafür, dass Farben in deinen Fotos natürlich wirken – besonders die Farbe Weiß. Er kompensiert unterschiedliche Lichtfarben von Sonne, Wolken, Glühbirnen oder Neonlicht, damit weiße Flächen wirklich weiß und nicht etwa gelb oder blau erscheinen.
 
+---
+
 ## Slider
 
 **Dataset**
@@ -16,6 +18,8 @@ Das Bild wirkt natürlich und ausgewogen, ohne starke Farbstiche. Ideal für Tag
 
 - Warmer Weißabgleich (z. B. 7000 K):
 Kühle Lichtfarben werden reduziert, das Bild wirkt wärmer und gelblicher. Gut für warme Stimmungen oder wenn das Bild zu kühl wirkt.
+
+---
 
 ## Grundlagen
 
@@ -55,6 +59,8 @@ Nachbearbeitung: Bei RAW-Fotos kannst du den Weißabgleich später in der Nachbe
 
 Ein falscher Weißabgleich führt zu starken Farb-stichen, die das gesamte Bild unprofessionell wirken lassen. Besonders bei Porträts sind falsche Hauttöne sofort sichtbar und störend.
 
+---
+
 ## Praxisbrerich mit typischen Situationen
 
 ### Tageslicht / Sonne
@@ -89,6 +95,8 @@ Neonlicht, LED-Beleuchtung oder gemischtes Licht kann starke grüne oder magenta
 Empfehlung: Neon-Modus oder manueller WB mit Graukarte.
 Tipp: Bei gemischtem Licht (z. B. Tageslicht + Kunstlicht) hilft oft nur manueller WB oder Nachbearbeitung.
 
+---
+
 ## Häufige Fehler
 
 ### Automatischen Weißabgleich blind vertrauen
@@ -115,10 +123,14 @@ Bei professionellen Aufnahmen (z. B. Produktfotografie, Porträts im Studio) kan
 
 Lösung: Verwende eine Graukarte oder weiße Karte, um den manuellen Weißabgleich zu kalibrieren. Mache ein Referenzbild vor der eigentlichen Aufnahme.
 
+---
+
 ## Hinweisbox / Merksatz
 
 „Weißabgleich sorgt dafür, dass Weiß wirklich weiß aussieht – egal unter welchem Licht."
 Niedrige Kelvin = wärmer (gelber), hohe Kelvin = kühler (blauer). Auto-WB funktioniert meist gut, aber bei kritischen Aufnahmen lohnt sich manueller WB oder RAW für Nachbearbeitung.
+
+---
 
 ## FAQ
 
