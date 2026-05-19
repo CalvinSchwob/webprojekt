@@ -109,7 +109,7 @@ Tipp: Bei Tageslicht und langer Verschlusszeit wird das Bild zu hell. Nutze ein 
 
 ### Verschlusszeit zu lang für Handhaltung
 
-Die Verschlusszeit ist zu lang, um die Kamera stabil zu halten. Das Bild wird durch Verwackelung unscharf,虽然不是由动因引起的。
+Die Verschlusszeit ist zu lang, um die Kamera stabil zu halten. Das Bild wird durch Verwackelung unscharf.
 
 Lösung: Halte die Faustregel ein (Verschlusszeit < Kehrwert der Brennweite). Bei 50 mm also mindestens 1/50 s. Nutze ein Stativ bei längeren Zeiten.
 
