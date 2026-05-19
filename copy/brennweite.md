@@ -25,10 +25,10 @@ Eine mittlere Brennweite um 50 mm wirkt besonders natürlich, weil ihr Bildeindr
 
 Wichtig ist außerdem: Die Brennweite verändert in erster Linie den Bildausschnitt, nicht direkt die Perspektive. Der typische Weitwinkel- oder Tele-Look entsteht oft deshalb, weil man mit unterschiedlichen Objektiven automatisch näher ans Motiv herangeht oder weiter weg stehen muss. Dadurch verändert sich der Abstand zwischen Kamera, Vordergrund und Hintergrund — und genau das beeinflusst die räumliche Wirkung im Bild.
 
-
-### Zoom (Brennweite)
-
-
-
 Weitere Ideen:
+
 - Dolly Zoom zur Veranschaulichung
+- Weitere Texte über Slider, welche den aktuellen Stand des Sliders veranschaulichen:
+  - 16–24 mm: Weitwinkel, viel Szene, ideal für Landschaft und Architektur.
+  - 35–50 mm: Natürlich und vielseitig, gut für Alltag und Reportage.
+  - 85–200 mm: Tele, enger Ausschnitt, gut für Porträts und entfernte Motive.
