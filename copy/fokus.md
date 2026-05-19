@@ -54,3 +54,14 @@ Tipp: Arbeite sehr präzise und kontrolliere die Schärfe genau, denn im Makrobe
 
 **Empfehlung:** Fokus auf das sich bewegende Hauptmotiv, idealerweise mit kontinuierlichem Autofokus.
 Tipp: Bei Sport, Tieren oder schnellen Szenen ist ein nachführender Fokus besonders hilfreich.
+
+## Häufige Fehler
+
+- Falscher Fokuspunkt: Das wichtigste Motiv ist unscharf.
+- Autofokus springt um: Die Kamera fokussiert auf den Hintergrund statt auf das Motiv.
+- Zu wenig Übung mit manuellem Fokus: Im Makrobereich ist manueller Fokus oft präziser.
+
+## Merksatz
+
+„Fokussiere immer auf den wichtigsten Bereich im Bild — dort, wo der Blick zuerst landen soll."
+Der Fokus ist entscheidend dafür, ob dein Foto scharf und lebendig wirkt.
