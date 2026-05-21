@@ -70,7 +70,9 @@ Licht ist die Grundlage jeder Fotografie und hat großen Einfluss auf Stimmung, 
 
 Besonders beliebt ist das Licht am frühen Morgen oder am späten Abend, weil es wärmer und weicher wirkt als das harte Mittagslicht. Wenn du lernst, Licht bewusst wahrzunehmen, kannst du schon ohne neue Ausrüstung bessere Bilder machen. Oft entscheidet nicht nur die Kamera über die Qualität eines Fotos, sondern vor allem das Verständnis für die vorhandenen Lichtverhältnisse.
 
-Kameramodi wie Automatik, Blendenpriorität, Zeitpriorität, Manuell.
+## Kameramodi wie Automatik, Blendenpriorität, Zeitpriorität, Manuell.
+
+> Dieser Abschnitt ist nur ein kleiner Anriss des Themas der Kameramodi. Diese wird auf einer eigenen Seite weiter Erklärt.
 
 ### Automatik (A, Auto, iA, etc.)
 
