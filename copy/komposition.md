@@ -222,7 +222,9 @@ Aus gestalterischer Sicht ist der Weißabgleich nicht nur ein technisches Werkze
 
 ## 2.7 Lichtkontrast und Schatten
 
-- Hoher Kontrast: dramatisch, spannend, aber riskant bei Details.
+### Hoher Kontrast: dramatisch, spannend, aber riskant bei Details
+
+Der Kontrast zwischen hellen und dunklen Bereichen im Bild ist ein zentrales Gestaltungsmittel in der Fotografie. Hoher Kontrast entsteht, wenn helle Stellen sehr hell und dunkle Stellen sehr dunkel sind. Das wirkt oft dramatisch, scharf und spannend, unterstreicht Formen und Konturen und kann sehr eindrucksvolle, bildstarke Aufnahmen erzeugen. Gleichzeitig ist es risikoreich: In starken Licht‑Dunkel‑Übergängen können sowohl helle Areale überbelichtet (Details verloren) als auch dunkle Bereiche schwarz sein (Details verschwunden), was die Bildwirkung eher hart und unbarmherzig erscheinen lässt.
 
 - Niedriger Kontrast: weicher, ruhiger, manchmal „flach“.
 
