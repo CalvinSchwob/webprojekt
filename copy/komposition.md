@@ -63,11 +63,13 @@ Durch gezielte Wahl von Linienführung und Perspektive kannst du also nicht nur 
 
 ## 1.5 Symmetrie, Wiederholung und Muster
 
-- Symmetrische Aufnahmen: wann wirken sie ruhig, wann langweilig?
+Symmetrie, Wiederholung und Muster sind mächtige gestalterische Werkzeuge, mit denen du Ruhe, Ordnung oder aber auch Monotonie erzeugen kannst – alles hängt von der Art der Symmetrie und der Variation ab.
 
-- Wiederholung von Motiven (Reihen, Fenster, Ranken, Menschen) als Bildwirkung.
+Symmetrische Aufnahmen wirken, wenn sie sauber ausgeführt sind, sehr ruhig, klar und harmonisch. Sie vermitteln Gleichgewicht, Schlichtheit und oft eine fast architektonische Strenge – etwa spiegelbildliche Spiegelungen, Türme, Gebäude oder eine gerade geteilte Szene. Allerdings können sie schnell langweilig wirken, wenn sie zu starr, zu perfekt oder zu „ausgeklammert“ von der Umgebung sind. Wenn keine Spannung, kein Leben oder kein Überraschungselement im Bild ist, bleibt das Auge flach über die Szene gleiten, statt dranzubleiben.
 
-- Unterbrechung der Symmetrie bewusst einsetzen, um Spannung zu erzeugen.
+Wiederholung von Motiven – wie Reihen, Fenster, Ranken, Zäune, Menschen, Stühle oder Blätter – schafft Struktur und Rhythmus im Bild. Die Augen folgen diesen wiederkehrenden Elementen, sodass eine Form von Bewegung entsteht, auch wenn alles still ist. Je mehr sich ein Muster wiederholt, desto stärker wird es als eigenständiger Bildträger empfunden, oft mehr als das einzelne Motiv selbst.
+
+Ganz besonders wirkt die bewusste Unterbrechung der Symmetrie oder des Musters. Wenn in einem ansonsten strengen Raster eines Element fehlt, sich verändert oder stark aus der Reihe fällt, springt das Auge unweigerlich dort hin. Diese „gestörte“ Form schafft Spannung, Überraschung und persönliche Note und kann dem Bild erst den richtigen emotionalen Punkt verleihen. Damit wird Symmetrie nicht zur Langeweile, sondern zum spannenden Bildgefüge, in dem das Auge zwischen harmonischem Ganzen und auffälligem Detail wandern kann.
 
 ## 1.6 Hintergrund, Vordergrund und Tiefenwirkung
 
