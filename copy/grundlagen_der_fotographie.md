@@ -1,6 +1,5 @@
 # Grundlagen der Fotographie
 
-
 ## Hero-Bereich : Grundlagen der Fotographie
 
 Fotografie bedeutet, Licht gezielt einzufangen und daraus ein Bild zu gestalten. Dabei geht es nicht nur darum, ein Motiv einfach aufzunehmen, sondern bewusst zu entscheiden, wie hell ein Bild sein soll, welcher Bereich scharf erscheint und welche Wirkung ein Foto auf den Betrachter haben soll. Wer die Grundlagen der Fotografie versteht, kann seine Kamera gezielter einsetzen und bessere Bilder aufnehmen.
@@ -55,11 +54,23 @@ Die Brennweite beeinflusst, wie nah oder weit ein Motiv wirkt und wie der Bildau
 
 Der Weißabgleich sorgt dafür, dass Farben natürlich wiedergegeben werden. Unterschiedliche Lichtquellen, etwa Sonnenlicht, Glühlampen oder Schatten, haben verschiedene Farbtemperaturen. Wenn der Weißabgleich passend eingestellt ist, wirken weiße Flächen auch wirklich weiß und Hauttöne sehen natürlicher aus.
 
+## Bildgestaltung
 
+> Dieser Abschnitt ist nur ein kleiner Anreißer des riesigen Feldes der Bildgestaltung. Ausführlich wird es nochmal auf ./copy/komposition.md behandelt.
+
+Ein technisch korrektes Foto ist nicht automatisch ein gutes Foto. Erst durch Bildgestaltung entscheidest du, wie interessant, ruhig, spannend oder dynamisch ein Bild wirkt. Dazu gehören der Bildaufbau, die Position des Motivs und die Art, wie der Blick des Betrachters durch das Foto geführt wird.
+
+Eine bekannte Gestaltungsregel ist die Drittelregel. Dabei wird das Bild gedanklich in neun gleich große Felder aufgeteilt, sodass wichtige Motive entlang der Linien oder an deren Schnittpunkten platziert werden können. Das sorgt oft für eine ausgewogenere und spannendere Bildkomposition als eine rein mittige Platzierung.
+
+Auch führende Linien spielen eine wichtige Rolle. Straßen, Wege, Geländer oder andere Linien im Bild können den Blick gezielt in Richtung des Hauptmotivs lenken und dem Foto mehr Tiefe geben. Zusätzlich beeinflussen Perspektive, Vordergrund und Hintergrund stark, wie räumlich und interessant eine Aufnahme wirkt.
+
+## Licht verstehen
+
+Licht ist die Grundlage jeder Fotografie und hat großen Einfluss auf Stimmung, Farben und Kontraste. Weiches Licht wirkt häufig ruhig und schmeichelhaft, während hartes Licht starke Schatten und deutliche Kontraste erzeugt. Je nachdem, zu welcher Tageszeit und aus welcher Richtung das Licht kommt, verändert sich die Wirkung eines Fotos deutlich.
+
+Besonders beliebt ist das Licht am frühen Morgen oder am späten Abend, weil es wärmer und weicher wirkt als das harte Mittagslicht. Wenn du lernst, Licht bewusst wahrzunehmen, kannst du schon ohne neue Ausrüstung bessere Bilder machen. Oft entscheidet nicht nur die Kamera über die Qualität eines Fotos, sondern vor allem das Verständnis für die vorhandenen Lichtverhältnisse.
 
 Kameramodi wie Automatik, Blendenpriorität, Zeitpriorität, Manuell.
-
-
 
 Verwackelte Bilder
 
