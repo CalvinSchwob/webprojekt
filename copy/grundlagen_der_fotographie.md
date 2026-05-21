@@ -1,6 +1,6 @@
-# Grundlagen der Fotographie
+# Grundlagen der Fotografie
 
-## Hero-Bereich : Grundlagen der Fotographie
+## Hero-Bereich : Grundlagen der Fotografie
 
 Fotografie bedeutet, Licht gezielt einzufangen und daraus ein Bild zu gestalten. Dabei geht es nicht nur darum, ein Motiv einfach aufzunehmen, sondern bewusst zu entscheiden, wie hell ein Bild sein soll, welcher Bereich scharf erscheint und welche Wirkung ein Foto auf den Betrachter haben soll. Wer die Grundlagen der Fotografie versteht, kann seine Kamera gezielter einsetzen und bessere Bilder aufnehmen.
 
@@ -71,6 +71,24 @@ Licht ist die Grundlage jeder Fotografie und hat großen Einfluss auf Stimmung, 
 Besonders beliebt ist das Licht am frühen Morgen oder am späten Abend, weil es wärmer und weicher wirkt als das harte Mittagslicht. Wenn du lernst, Licht bewusst wahrzunehmen, kannst du schon ohne neue Ausrüstung bessere Bilder machen. Oft entscheidet nicht nur die Kamera über die Qualität eines Fotos, sondern vor allem das Verständnis für die vorhandenen Lichtverhältnisse.
 
 Kameramodi wie Automatik, Blendenpriorität, Zeitpriorität, Manuell.
+
+### Automatik (A, Auto, iA, etc.)
+
+Die Kamera übernimmt fast alle Einstellungen. Du musst dich nur auf Motiv, Bildausschnitt und Auslöser konzentrieren. Die Automatik ist ideal, um ohne technische Überlastung Fotos zu machen, gibt dir aber wenig Kontrolle über Blende, Verschlusszeit oder ISO.
+
+### Blendenpriorität (A/Av)
+
+Du wählst die Blende, die Kamera passt Automatik‑Verschlusszeit und teilweise ISO an. Nützlich, wenn du bewusst mit der Schärfentiefe arbeiten möchtest, zum Beispiel unscharfe Hintergründe bei Porträts oder eine große Schärfe bei Landschaften.
+
+### Zeitpriorität (S/Tv)
+
+Du bestimmst die Verschlusszeit, die Kamera stellt Blende und meist ISO automatisch ein. Gut geeignet, wenn du Bewegung steuern möchtest – etwa Bewegungsunschärfen erzeugen oder schnelle Bewegungen einfrieren.
+
+### Manuell (M)
+
+Du wählst Blende, Verschlusszeit und ISO selbst. Die Kamera zeigt dir nur, ob das Bild nach dem Belichtungsmesser hell, dunkel oder passend belichtet erscheint. Der manuelle Modus bietet maximale Kontrolle, ist aber für Anfänger oft komplexer, weil du alle drei Einstellungen zugleich im Blick behalten musst.
+
+
 
 Verwackelte Bilder
 
