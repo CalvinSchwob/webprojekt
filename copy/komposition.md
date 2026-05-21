@@ -187,11 +187,18 @@ Aufhelllicht (z. B. Reflektor, weicher Blitz von vorne oder seitlich unten) mi
 Die Wahl der Lichtrichtung beeinflusst also direkt, wie tief, plastisch, dramatisch oder sanft ein Bild wirkt. So lässt sich seitliches Licht bewusst einsetzen, um mehr Tiefe und Skulptur zu erzeugen, Gegenlicht für dramatische Konturen und Silhouetten, und Vorderlicht oder Aufhelllicht, um ein ruhiges, gleichmäßigeres oder gleichmäßig beleuchtetes Bild zu schaffen.
 
 ## 2.5 Tageslicht und „Golden Hour“
-- Unterschiede zwischen Tageslichtphasen (Mittagslicht, Morgen, Abend, blaue Stunde).
 
-- Warum Morgen‑ und Abendlicht oft als „goldenes Licht“ beliebt sind.
+### Unterschiede zwischen Tageslichtphasen (Mittagslicht, Morgen, Abend, blaue Stunde)
 
-- Kontraste bei Mittagslicht und wie man damit umgeht.
+Tageslicht verändert sich über den Tag hinweg ständig, je nach Tagesphase, Wetter und Jahreszeit. Die wichtigsten Phasen sind Mittagslicht, Morgenlicht, Abendlicht und die sogenannte blaue Stunde. Jede Phase hat ihren eigenen Charakter: Mittagslicht ist meist hell und hart, Morgen- und Abendlicht eher weicher und warm, und die blaue Stunde bietet kühl, diffuse Beleuchtung mit sanften Schatten und einem atmosphärischen Licht.
+
+### Warum Morgen‑ und Abendlicht oft als „goldenes Licht“ beliebt sind
+
+Besonders beliebt sind Morgen‑ und Abendlicht als „Golden Hour“, weil die Sonne in diesen Phasen flach über dem Horizont steht. Das Licht fällt dann schräg ein, ist weicher, wärmer und länger. Farbtöne wirken golden‑orange, Schatten sind weich, aber deutlich sichtbar, und die Tiefe im Bild wird betont – genau deshalb lieben viele Fotografen diese Zeiten für Porträts, Landschaften und stimmungsvolle Aufnahmen. Die Golden Hour verleiht vielen Fotos einen besonderen, fast „zauberhaften“ Charakter, den man tagsüber nur schwer erreicht.
+
+### Kontraste bei Mittagslicht und wie man damit umgeht
+
+Anders verhält es sich mit dem Mittagslicht: Dann steht die Sonne meist hoch am Himmel, das Licht ist sehr hell, hart und kontrastreich. Schatten fallen direkt unter Motive, Konturen sind scharf, und die Bildwirkung wirkt oft kalt oder hart. Um mit Mittagslicht umzugehen, kannst du Schattenbereiche gezielt nutzen, Motive in den Schatten stellen, Diffusoren oder Reflektoren verwenden oder die Aufnahmezeit verschieben, wenn du weichere, schmeichelhaftere Bilder möchtest.
 
 ## 2.6 Kunstlicht und Farbtemperatur
 
