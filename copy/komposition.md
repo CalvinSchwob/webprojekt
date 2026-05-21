@@ -167,11 +167,24 @@ Ob weiches oder hartes Licht besser ist, hängt von deiner Bildidee ab.
 Die Kunst besteht darin, die Lichtqualität an deine Bildwirkung anzupassen – und gegebenenfalls zu entscheiden, ob du sie durch Umschichten oder Diffusion veränderst.
 
 ## 2.4 Lichtrichtung
-- Vorderlicht, seitliches Licht, Gegenlicht, Hinterlicht, Obenlicht, Aufhelllicht.
 
-- Wirkung der verschiedenen Lichtrichtungen auf Schatten, Kontur, Tiefe und Atmosphäre.
+### Vorderlicht, seitliches Licht, Gegenlicht, Hinterlicht, Obenlicht, Aufhelllicht
 
-- Beispiel: seitliches Licht erzeugt mehr Tiefe und Skulptur.
+Die Richtung, aus der das Licht kommt, bestimmt wesentlich, wie ein Motiv im Bild aussieht. Unterschiedliche Lichtrichtungen formen Schatten, Konturen und Tiefe in ganz unterschiedlicher Weise und geben jedem Bild eine eigene Atmosphäre. Typische Lichtrichtungen sind Vorderlicht, seitliches Licht, Gegenlicht, Hinterlicht, Obenlicht und Aufhelllicht – jede hat ihre charakteristische Wirkung.
+
+### Wirkung der verschiedenen Lichtrichtungen auf Schatten, Kontur, Tiefe und Atmosphäre
+
+**Vorderlicht** (Licht aus Kamerarichtung) flacht das Bild oft ab, weil Schatten vom Motiv wegfallen oder nur sehr schwach ausfallen. Das Motiv wirkt flächig, Kontraste sind gering und die Wirkung eher ruhig oder neutral, aber meist auch wenig plastisch.
+
+**Seitliches Licht** dagegen betont Tiefe und Kontur, weil es von der Seite fällt und Schatten in eine Richtung legt. Dadurch wird das Motiv plastischer, räumlicher und oft „skulptural“ – daher passt seitliches Licht besonders gut zu Porträts, Architektur oder Aufnahmen, bei denen du Form und Oberfläche betonen willst.
+
+**Gegenlicht und Hinterlicht** (Licht von hinten, teils mit dem Motiv zwischen Kamera und Lichtquelle) erzeugen Umrisse, Silhouetten und starken Kontrast. Sie wirken dramatisch, oft spektakulär, aber auch schwierig zu belichten, weil Details im Schatten verloren gehen können.
+Obenlicht – wie direkte Mittagssonne – erzeugt harte, unten scharfe Schatten und wirkt meist hart und kontrastreich, manchmal sogar unangenehm, da Schatten unter Augen, Nase oder Kinn zu stark hervorstechen.
+Aufhelllicht (z. B. Reflektor, weicher Blitz von vorne oder seitlich unten) mildert zu harte Schatten oder hebt Details wieder hervor, ohne das Bild zu flach wirken zu lassen.
+
+### Beispiel: seitliches Licht erzeugt mehr Tiefe und Skulptur
+
+Die Wahl der Lichtrichtung beeinflusst also direkt, wie tief, plastisch, dramatisch oder sanft ein Bild wirkt. So lässt sich seitliches Licht bewusst einsetzen, um mehr Tiefe und Skulptur zu erzeugen, Gegenlicht für dramatische Konturen und Silhouetten, und Vorderlicht oder Aufhelllicht, um ein ruhiges, gleichmäßigeres oder gleichmäßig beleuchtetes Bild zu schaffen.
 
 ## 2.5 Tageslicht und „Golden Hour“
 - Unterschiede zwischen Tageslichtphasen (Mittagslicht, Morgen, Abend, blaue Stunde).
