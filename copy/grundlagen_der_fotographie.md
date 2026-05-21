@@ -38,7 +38,7 @@ Die Wahl der Verschlusszeit beeinflusst deshalb nicht nur die Helligkeit, sonder
 
 Der ISO-Wert bestimmt, wie empfindlich der Sensor auf Licht reagiert beziehungsweise wie stark das Bildsignal aufgehellt wird. Ein niedriger ISO-Wert sorgt in der Regel für eine bessere Bildqualität, während ein hoher ISO-Wert in dunkleren Situationen hilfreich sein kann. Gleichzeitig steigt bei hohen ISO-Werten oft das Bildrauschen.
 
-Deshalb sollte ISO meist nur dann erhöht werden, wenn Blende und Verschlusszeit nicht ausreichen, um ein hell genuges Bild zu erhalten. Viele Einsteiger machen den Fehler, ISO zu schnell sehr hoch einzustellen und wundern sich dann über körnige Bilder. Ein bewusst gewählter ISO-Wert hilft dir, Belichtung und Bildqualität besser auszubalancieren.
+Deshalb sollte die ISO meist nur dann erhöht werden, wenn Blende und Verschlusszeit nicht ausreichen, um ein hell genuges Bild zu erhalten. Viele Einsteiger machen den Fehler, die ISO zu schnell sehr hoch einzustellen und wundern sich dann über körnige Bilder. Ein bewusst gewählter ISO-Wert hilft dir, Belichtung und Bildqualität besser auszubalancieren.
 
 ## Weitere wichtige Grundlagen
 
@@ -76,7 +76,7 @@ Besonders beliebt ist das Licht am frühen Morgen oder am späten Abend, weil es
 
 ### Automatik (A, Auto, iA, etc.)
 
-Die Kamera übernimmt fast alle Einstellungen. Du musst dich nur auf Motiv, Bildausschnitt und Auslöser konzentrieren. Die Automatik ist ideal, um ohne technische Überlastung Fotos zu machen, gibt dir aber wenig Kontrolle über Blende, Verschlusszeit oder ISO.
+Die Kamera übernimmt fast alle Einstellungen. Du musst dich nur auf Motiv, Bildausschnitt und Auslöser konzentrieren. Die Automatik ist ideal, um ohne technische Überlastung Fotos zu machen, gibt dir aber wenig Kontrolle über Blende, Verschlusszeit oder ISO. Damit kannst du zwar schnell gute Fotos aufnehmen, aber wenig Stil oder Bedeutung in das Bild legen.
 
 ### Blendenpriorität (A/Av)
 
