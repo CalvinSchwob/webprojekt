@@ -202,11 +202,23 @@ Anders verhält es sich mit dem Mittagslicht: Dann steht die Sonne meist hoch am
 
 ## 2.6 Kunstlicht und Farbtemperatur
 
-- Typische Lichtquellen: LED, Glühbirne, Neon, Strobo, Blitz, Dauerlicht.
+### Typische Lichtquellen: LED, Glühbirne, Neon, Strobo, Blitz, Dauerlicht
 
-- Farbtemperatur (Kalt = bläulich, Warm = gelblich) und wie sie sich auf die Stimmung auswirkt.
+Neben natürlichem Tageslicht spielt Kunstlicht in der Fotografie eine wichtige Rolle – sei es in Innenräumen, Studios oder bei Nachtaufnahmen. Typische Lichtquellen sind LED‑Leuchten, Glühlampen, Neonröhren, Stroboskope, Blitze und Dauerlicht. Jede dieser Quellen hat nicht nur eine bestimmte Helligkeit, sondern auch eine eigene Farbtemperatur, die die Bildwirkung maßgeblich beeinflusst.
 
-- Kurze Erklärung von Weißabgleich aus gestalterischer Sicht (nicht technisch, sondern emotional).
+### Farbtemperatur (Kalt = bläulich, Warm = gelblich) und wie sie sich auf die Stimmung auswirkt.
+
+Die Farbtemperatur beschreibt, wie „kalt“ oder „warm“ ein Licht wirkt.
+
+- **Kalt** heißt meist bläulich und wirkt klar, sachlich, manchmal distanziert oder modern.
+
+- **Warm** heißt gelblich bis orange und wirkt freundlich, gemütlich, romantisch oder weich.
+
+Durch die Wahl der Farbtemperatur kannst du die Stimmung gezielt steuern: z. B. ein warmes, gemütliches Interieur mit Glühbirnenlicht oder ein nüchternes, sachliches Bild mit kühlem LED‑Licht.
+
+### Kurze Erklärung von Weißabgleich aus gestalterischer Sicht (nicht technisch, sondern emotional)
+
+Aus gestalterischer Sicht ist der Weißabgleich nicht nur ein technisches Werkzeug, sondern ein Mittel, um die Bildstimmung mitzubestimmen. Wenn du bewussst einen leicht warmen oder kühlen Weißabgleich wählst, verstärkst du die Emotion, statt „nur“ Farbverfälschungen zu korrigieren. Ein warm eingestellter Weißabgleich kann selbst bei kühlem Licht ein Gefühl von Intimität oder Abendstimmung erzeugen, während ein kühler Weißabgleich Räume oder Porträts klarer und distanzierter wirken lässt. So wird der Weißabgleich zu einer Gestaltungsoption: Du entscheidest, ob dein Bild eher „neutral“ oder ausdrücklich „warm“ bzw. „kalt“ wirken soll.
 
 ## 2.7 Lichtkontrast und Schatten
 
