@@ -251,16 +251,40 @@ Darüber hinaus eröffnen Lichtfarbe und Licht selbst spannende Farbspiele im Bi
 
 ## 2.9 Licht und Porträt / Motiv
 
-- Wie Licht auf Gesichtszüge, Haut, Konturen und Emotionen wirkt.
+### Wie Licht auf Gesichtszüge, Haut, Konturen und Emotionen wirkt
 
-- Augenlichtpunkte, Stirn, Wangen, Nase – wie Lichtformen den Eindruck eines Menschen verändert.
+Licht entscheidet maßgeblich darüber, wie ein Mensch oder ein Motiv im Bild wirkt – bis hin zu den kleinsten Details von Gesichtszügen, Haut, Konturen und Emotionen. Ein und dieselbe Person kann je nach Licht gelöst, aggressiv, schmeichelhaft, geheimnisvoll oder distanziert wirken. Helle, weiche Bereiche lassen die Haut weicher und jünger erscheinen, während harte, kontrastreiche Schatten Gesichtslandschaften, Runzeln oder Kanten betonen. Das Licht wirkt also nicht nur ästhetisch, sondern auch psychologisch, weil es Emotionen wie Freude, Traurigkeit, Kraft oder Verletzlichkeit mitprägt.
 
-- Beleuchtungsideen: seitlich, hinten, von oben, Umrisse beleuchten, Catchlights im Auge.
+### Augenlichtpunkte, Stirn, Wangen, Nase – wie Lichtformen den Eindruck eines Menschen verändert
+
+Ganz konkrete Bildbereiche wie Augenlichtpunkte (Catchlights), die Stirn, die Wangen oder die Nase werden je nach Lichtrichtung ganz anders „modelliert“. Fällt Licht von der Seite, entsteht eine klare Struktur, Schatten folgen der Gesichtskontur und geben dem Gesicht Tiefe und Skulptur. Ein direktes Licht von vorn kann zwar gleichmäßig aussehen, lässt aber oft wenig plastik, während leicht schräg fallendes Licht das Gesicht in weiche, schmeichelhafte Flächen und Schatten teilt. Die Art und Form der Schatten auf Stirn, Nase und Wangen bestimmt, ob das Gesicht kantig, zart, stark oder weich wirkt.
+
+### Beleuchtungsideen: seitlich, hinten, von oben, Umrisse beleuchten, Catchlights im Auge
+
+Verschiedene Beleuchtungsideen eröffnen zudem konkrete Möglichkeiten, den Eindruck zu steuern.
+
+- Seitliches Licht betont Kontur und Tiefe, wirkt plastisch und oft dramatisch.
+
+- Hinten oder von schräg‑hinten beleuchtetes Licht kann den Körper oder die Silhouette umrahmen und den Hintergrund hervorheben, während das Gesicht leicht im Schatten bleibt.
+
+- Von oben fallendes Licht (z. B. Deckenfluter) wirkt manchmal hart und kann tiefe Schatten unter Augen oder Nase erzeugen, was aber in bestimmten Kontexten auch sehr ausdrucksstark sein kann.
+
+- Umrisslicht (Backlight/Rim light) betont die Kontur des Motivs, lässt es von hinten „leuchten“ und trennt es klar vom Hintergrund, wodurch das Bild mehr Tiefe und Dramatik bekommt.
+
+- Catchlights im Auge – kleine Lichtreflexe in der Iris – verleihen dem Blick mehr Tiefe, Lebendigkeit und Aufmerksamkeit. Ohne diese Lichtpunkte wirken Augen schnell „tot“ oder leer.
+
+Durch bewusste Auswahl dieser Lichtführung kannst du entscheiden, ob ein Porträt eher natürlich, emotional, dramatisch oder abstrahiert wirkt – und damit das Innenleben des Motivs mitgestalten.
 
 ## 2.10 Bewusste Lichtführung (Ansatz für Fortgeschrittene)
 
-- Gezielter Einsatz von Lichtquellen, Up‑ und Backlight.
+### Gezielter Einsatz von Lichtquellen, Up‑ und Backlight
 
-- Nutzung von Schatten als Teil des Bildes.
+Auf fortgeschrittener Ebene geht es in der Fotografie nicht mehr darum, einfach „gutes Licht zu nutzen“, sondern Licht gezielt als Gestaltungsmittel zu inszenieren. Ein gezielter Einsatz verschiedener Lichtquellen – wie Blitz, Dauerlicht, Schirme, Reflektoren oder künstliche Lampen – erlaubt es, Schatten, Helligkeit und Kontraste bewusst zu platzieren, statt auf die Umgebungsbeleuchtung angewiesen zu sein. Techniken wie Up‑Light (Licht von unten oder schräg unten) und Backlight (Licht von hinten oder schräg hinten) ändern die Bildwirkung grundlegend: Up‑Light kann Dramatik oder Unruhe schaffen, Backlight betont Umrisse, trennt Motiv und Hintergrund und verleiht dem Bild Luftigkeit oder eine leuchtende Kontur.
 
-- Idee: Licht nicht nur „zulassen“, sondern bewusst inszenieren.
+### Nutzung von Schatten als Teil des Bildes
+
+In diesem Ansatz werden Schatten nicht mehr als Fehler, sondern als Teil des Bildes betrachtet. Dunkle Bereiche können Spannung aufbauen, Details verstecken, Raum zum Mitdenken geben oder eine bestimmte Emotion unterstreichen – etwa Geheimnis, Einsamkeit oder Konzentration. Hart oder weich, klar oder verschwommen: Schatten können genauso bewusst gesetzt werden wie helle Flächen, um Tiefe, Rhythmus oder Spannung zu erzeugen.
+
+### Idee: Licht nicht nur „zulassen“, sondern bewusst inszenieren
+
+Die Kernidee ist: Licht nicht nur „zulassen“, sondern bewusst inszenieren. Du entscheidest, aus welcher Richtung das Licht kommt, wie stark es ist, welche Farbe es hat und welche Bereiche im Bild lieber im Schatten bleiben. Damit wird Fotografie zu einem aktiven Gestaltungsprozess, bei dem du Licht und Schatten so anordnest, dass sie deine Bildidee genau tragen – sei es ruhig, dramatisch, emotional oder abstrakt.
