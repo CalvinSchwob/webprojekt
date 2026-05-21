@@ -226,17 +226,28 @@ Aus gestalterischer Sicht ist der Weißabgleich nicht nur ein technisches Werkze
 
 Der Kontrast zwischen hellen und dunklen Bereichen im Bild ist ein zentrales Gestaltungsmittel in der Fotografie. Hoher Kontrast entsteht, wenn helle Stellen sehr hell und dunkle Stellen sehr dunkel sind. Das wirkt oft dramatisch, scharf und spannend, unterstreicht Formen und Konturen und kann sehr eindrucksvolle, bildstarke Aufnahmen erzeugen. Gleichzeitig ist es risikoreich: In starken Licht‑Dunkel‑Übergängen können sowohl helle Areale überbelichtet (Details verloren) als auch dunkle Bereiche schwarz sein (Details verschwunden), was die Bildwirkung eher hart und unbarmherzig erscheinen lässt.
 
-- Niedriger Kontrast: weicher, ruhiger, manchmal „flach“.
+### Niedriger Kontrast: weicher, ruhiger, manchmal „flach“
 
-- Schatten bewusst einsetzen: Silhouetten, Dramatik, Geheimnisvoll.
+Niedriger Kontrast bedeutet, dass die Übergänge zwischen hell und dunkel sehr weich und fließend sind. Das führt zu einem ruhigen, schmeichelhaften und oft sehr atmosphärischen Bild. Hohe Detailschärfe ist schwächer ausgeprägt, die Bildwirkung wirkt weicher – manchmal so „leise“, dass sie als zu „flach“ oder unauffällig empfunden wird. In der richtigen Situation ist niedriger Kontrast aber genau das, was ruhige, poetische oder subtile Stimmungen unterstützt.
+
+### Schatten bewusst einsetzen: Silhouetten, Dramatik, Geheimnisvoll
+
+Schatten sind dabei kein Störenfried, sondern eine wichtige gestalterische Option. Sie können bewusst eingesetzt werden, um Silhouetten zu schaffen, in denen das Motiv als dunkle Form vor einem hellen Hintergrund erscheint. Schatten können auch Dramatik vermitteln, indem sie scharfe Schattenränder und klare Licht‑Dunkel‑Gegensätze erzeugen oder dunkle Bereiche gezielt verbergen. In manchen Fällen werden Schatten sogar zur Geheimnisvolligkeit eingesetzt: Dunkle, undurchsichtige Bereiche aktivieren die Vorstellungskraft des Betrachters, weil sie nicht alles preisgeben.
+Die Kunst liegt darin, Schatten so zu wählen, dass sie sowohl deine Bildwirkung unterstützen als auch die wichtigsten Details im Bild nicht zerstören.
 
 ## 2.8 Licht und Farben
 
-- Wie Lichtfarbe den Gesamteindruck verändert (z. B. Sonnenuntergang = warm, Abendlicht = kalt).
+### Wie Lichtfarbe den Gesamteindruck verändert (z. B. Sonnenuntergang = warm, Abendlicht = kalt)
 
-- Stimmung: warmes Licht wirkt freundlich, kühles Licht kann kühl, geheimnisvoll oder sachlich wirken.
+Licht hat nicht nur eine Helligkeit, sondern auch eine Lichtfarbe, die den gesamten Eindruck eines Fotos entscheidend prägt. Je nachdem, wie warm oder kalt das Licht ist, wirkt ein Bild völlig anders. Ein klassisches Beispiel ist der Sonnenuntergang: Das Licht ist dann oft warm, golden‑orange und gibt dem Bild eine freundliche, warme, fast melancholische Stimmung. Dagegen kann das Abendlicht oder das Licht bei Dämmerung eher kühl‑bläulich erscheinen und wirkt nüchterner, geheimnisvoll oder ruhig. Bereits kleine Unterschiede in der Lichtfarbe können also aus demselben Motiv ein ganz anderes Bild machen.
 
-- Farbspiele im Bild mit Lichtreflexen, Farbbereichen und Hintergründen.
+### Stimmung: warmes Licht wirkt freundlich, kühles Licht kann kühl, geheimnisvoll oder sachlich wirken
+
+Die Stimmung eines Fotos hängt stark von der Farbtemperatur des Lichts ab. Warmes Licht – gelblich bis orange – wirkt meist freundlich, gemütlich, emotional und intimate. Es passt gut zu Porträts, romantischen Szenen, Innenräumen oder Bildern, die Nähe und Wärme vermitteln sollen. Kühles Licht – bläulich oder weißlich – kann distanziert, sachlich, modern, kalt oder geheimnisvoll wirken und eignet sich für neutrale, klare oder abstrakte Aufnahmen. Entscheidend ist, welchen Eindruck du mit deinem Bild vermitteln willst: Wärme und Nähe oder Klarheit und Distanz?
+
+### Farbspiele im Bild mit Lichtreflexen, Farbbereichen und Hintergründen
+
+Darüber hinaus eröffnen Lichtfarbe und Licht selbst spannende Farbspiele im Bild. Lichtreflexe auf Oberflächen, Wasser, Glas oder Metall können kleine, helle Lichtpunkte oder Farbverläufe erzeugen, die das Bild lebendig und dynamisch machen. Unterschiedliche Farbbereiche im Motiv – etwa ein rot beleuchtetes Objekt vor einem kühlen Hintergrund – können Gegensätze schaffen und das Auge gezielt führen. Auch Hintergründe spielen dabei eine wichtige Rolle: Ein farbig beleuchteter Hintergrund kann die Stimmung des Motivs ergänzen oder gezielt in den Hintergrund treten. Wenn du Licht und Farben bewusst kombinierst, erhält dein Bild eine eigene, starke Farbsprache, die seine Aussage verstärkt.
 
 ## 2.9 Licht und Porträt / Motiv
 
