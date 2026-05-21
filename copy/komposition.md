@@ -42,11 +42,24 @@ Praktische Beispiele:
 
 ## 1.4 Linienführung und Perspektive
 
-- Führende Linien (Straßen, Wege, Geländer, Zäune, Arme, Blicke).
+Linienführung spielt in der Bildgestaltung eine zentrale Rolle, weil sie den Blick des Betrachters steuert und Struktur ins Bild bringt. Führende Linien können ganz unterschiedliche Formen annehmen: Straßen, Wege, Geländer, Zäune, Hand- und Armlinien oder sogar unsichtbare „Blicklinien“ durch die Augen oder Gesten eines Motivs. Diese Linien leiten den Blick entlang ihres Verlaufs zum wichtigsten Bildpunkt – ob es nun ein entferntes Ziel, ein Mensch oder ein interessanter Bildbereich ist.
 
-- Diagonale, horizontale und vertikale Linien und ihre Wirkung.
+Die Orientierung der Linien hat dabei eine klare Wirkung.
 
-- Perspektive: von unten, von oben, Augenhöhe – wie sie das Motiv verändert.
+- **Horizontale Linien**, etwa ein ruhiger Horizont, eine Straße oder ein Meer, wirken meist stabil, schwebend und beruhigend; sie verleihen dem Bild Ruhe.
+
+- **Vertikale Linien**, wie Bäume, Türme oder lange Wände, können Wucht, Stärke oder Erhabenheit ausdrücken und das Bild aufrecht und streng wirken lassen.
+
+- **Diagonale Linien** erzeugen Dynamik, Spannung und Bewegung, weil sie das Auge schräg durch das Bild führen und das Motiv lebendiger wirken lassen.
+
+Die Perspektive – aus welcher Höhe und welchem Blickwinkel du fotografierst – beeinflusst die Bildwirkung ebenso stark.
+
+- **Die Aufsicht** (von oben fotografiert) wirkt oft distanziert, kontrollierend oder überblickend, kann aber auch ein Muster im Boden oder eine Ordnung hervorheben.
+
+- **Die Untersicht** (von unten fotografiert) macht Motive größer, dominant oder imposant und betont Höhe und Macht.
+
+- **Die Augenhöhe** wirkt meist natürlich, neutral und authentisch, da sie dem Betrachter den Blick vorgibt, den er im Alltag selbst hat.
+Durch gezielte Wahl von Linienführung und Perspektive kannst du also nicht nur das Motiv zeigen, sondern gezielt Stimmung, Spannung oder Ruhe erzeugen.
 
 ## 1.5 Symmetrie, Wiederholung und Muster
 
