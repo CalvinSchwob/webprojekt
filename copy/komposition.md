@@ -87,19 +87,31 @@ Eine wichtige technische Hilfe für die Bildwirkung ist die Schärfentiefe. Durc
 
 ## 1.7 Negative Space (freier Raum)
 
-- Bedeutung von freien, leeren Bereichen um das Motiv.
+### Bedeutung von freien, leeren Bereichen um das Motiv
 
-- Wie Freiraum dynamisch wirkt (z. B. Raum in Richtung der Bewegung).
+Negative Space bezeichnet die freien, leeren oder ruhigen Bereiche um das Motiv herum – also alles, was nicht das Hauptmotiv selbst ist. Diese „leeren“ Stellen sind jedoch anything andere als bedeutungslos: Sie helfen, das Motiv klarer hervorzuheben, das Bild ruhiger, minimalistischer und oft stärker wirken zu lassen. Durch gezielt eingesetzten leeren Raum wirkt das Motiv größer, freier oder bewusster inszeniert.
 
-- Typische Fehler: zu viel leerer Raum ohne Sinn, zu wenig Raum um das Motiv.
+### Wie Freiraum dynamisch wirkt (z. B. Raum in Richtung der Bewegung)
+
+Freiraum kann auch dynamisch wirken, wenn er bewusst platziert wird. Stell dir ein Motiv vor, das nach rechts „blickt“ oder läuft: Wenn auf der Seite, in die es schaut, noch Raum im Bild vorhanden ist, vermittelt das Bewegung, Zielrichtung und eine Form von Spannung. Das Bild wirkt offen und erzählt eine Geschichte, weil das Auge im leeren Bereich „weitergehen“ kann. Fehlt dieser Raum, wirkt das Motiv oft eingeengt, als würde es ins Nichts blicken oder direkt an die Bildgrenze stoßen.
+
+### Typische Fehler: zu viel leerer Raum ohne Sinn, zu wenig Raum um das Motiv
+
+Typische Fehler entstehen, wenn Negativespace nicht durchdacht wird. Zu viel leerer Raum ohne Sinn macht das Bild leer, uninteressant und kann den Eindruck vermitteln, das Motiv sei zu klein oder verloren. Gleichzeitig wirkt zu wenig Raum um das Motiv herum erdrückend oder überladen, weil das Motiv keine „Luft zum Atmen“ hat. Die Kunst besteht darin, einen Mittelweg zu finden: genug freien Raum, um das Motiv klar zu isolieren, aber nicht so viel, dass das Bild langweilig oder unvollständig wirkt.
 
 ## 1.8 Regeln bewusst brechen
 
-- Warum Regeln wichtig sind, um sie dann zu durchbrechen.
+### Warum Regeln wichtig sind, um sie dann zu durchbrechen
 
-- Beispiele: mittiges Motiv, diagonaler Horizont, „unperfekte“ Bilder, die emotional wirken.
+Fotografische Regeln wie die Drittelregel, die Behandlung von Horizonten oder die Komposition mit viel Negativraum sind wichtig, weil sie ein klares Gerüst geben. Sie helfen dir, systematisch zu fotografieren, Fehler zu erkennen und zu verstehen, warum bestimmte Bilder stärker wirken als andere. Erst wenn du diese Regeln verinnerlicht hast, kannst du sie bewusst durchbrechen – und genau das macht aus einem formelhaften Bild oft ein eindrucksvolles, emotionales Foto.
 
-- Gefühl für „richtig“ oder „falsch“ entwickeln.
+### Beispiele: mittiges Motiv, diagonaler Horizont, „unperfekte“ Bilder, die emotional wirken
+
+Mittige Motive, diagonal verlaufende Horizonte oder scheinbar „unperfekte“ Bilder können sehr wirkungsvoll sein, wenn du sie gezielt nutzt. Ein mittig platziertes Motiv kann Wucht, Stärke oder Konzentration ausdrücken, ein schräger Horizont kann Spannung, Bewegung oder Unruhe schaffen, und ein Bild mit ungewöhnlich viel Unschärfe, starken Kontrasten oder unbalanciertem Aufbau kann die Stimmung oder das Gefühl eines Moments betonen. Solche Bilder stehen dann nicht mehr in der Tradition gerader, sauberer Kompositionen, sondern wirken emotional, fragmentarisch oder persönlich.
+
+### Gefühl für „richtig“ oder „falsch“ entwickeln
+
+Am Ende geht es darum, ein Gefühl dafür zu entwickeln, wann etwas „falsch“ ist, weil es unüberlegt wirkt, und wann es „richtig“ ist, weil es gezielt und bewusst gemacht wurde. Regeln bieten dir Sicherheit beim Lernen – das Durchbrechen der Regeln schafft Raum für deine eigene Bildsprache und deinen persönlichen Stil.
 
 # 2. Lichtverständnis (Licht und Bildstimmung)
 
