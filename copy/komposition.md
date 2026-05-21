@@ -1,27 +1,157 @@
-## Bildgestaltung
+# 1. Bildgestaltung (Komposition)
 
-Ein technisch korrektes Foto ist nicht automatisch ein gutes Foto. Erst durch Bildgestaltung entscheidest du, wie interessant, ruhig, spannend oder dynamisch ein Bild wirkt. Dazu gehören der Bildaufbau, die Position des Motivs und die Art, wie der Blick des Betrachters durch das Foto geführt wird.
+## 1.1 Grundidee der Komposition
 
-Eine bekannte Gestaltungsregel ist die Drittelregel. Dabei wird das Bild gedanklich in neun gleich große Felder aufgeteilt, sodass wichtige Motive entlang der Linien oder an deren Schnittpunkten platziert werden können. Das sorgt oft für eine ausgewogenere und spannendere Bildkomposition als eine rein mittige Platzierung.
+Komposition in der Fotografie beschreibt, wie die Elemente im Bild angeordnet sind – also alles, was in den Sucher passt: Motiv, Hintergrund, Linien, Himmel, Licht und Schatten. Es geht nicht nur darum, ein Motiv zu erfassen, sondern bewusst zu entscheiden, wo es im Bild steht, wie viel davon zu sehen ist und wie der Blick des Betrachters geleitet wird.
 
-Auch führende Linien spielen eine wichtige Rolle. Straßen, Wege, Geländer oder andere Linien im Bild können den Blick gezielt in Richtung des Hauptmotivs lenken und dem Foto mehr Tiefe geben. Zusätzlich beeinflussen Perspektive, Vordergrund und Hintergrund stark, wie räumlich und interessant eine Aufnahme wirkt.
+Deshalb zählt bei einer gelungenen Aufnahme nicht nur das Motiv selbst, sondern vor allem seine Anordnung im Bild. Ein starkes Motiv kann uninspirierend wirken, wenn es mittig in der Mitte steht, vom Hintergrund überlagert wird oder keine klare Linienführung hat. Umgekehrt können sogar unscheinbare Motive durch eine kluge Komposition, einen passenden Bildausschnitt, ein interessantes Hintergrundmotiv oder starke Linien spannend wirken.
+Die Komposition ist also der kreative Teil der Fotografie: Sie macht aus einer reinen Aufnahme ein Bild, das eine Geschichte, Stimmung oder eine bestimmte Wirkung vermittelt.
 
-Drittelregel
+## 1.2 Bildausschnitt und Bildgrenzen
 
-Führende Linien
+Der Bildausschnitt bestimmt maßgeblich, wie stark ein Foto wirkt. Entscheidend ist nicht nur, was du fotografierst, sondern ganz konkret, was du innerhalb der Bildgrenzen zulässt und was du ausblendest. Schon ein kleiner Versatz, eine andere Kameraposition oder ein geänderter Bildausschnitt können aus derselben Szene ein völlig anderes Bild machen – spannender, ruhiger, persönlicher oder distanzierter.
 
-Perspektive
+Praktisch nutzt man in der Fotografie viele bewährte Ausschnittarten, je nachdem, was du zeigen willst.
 
-Vordergrund und Hintergrund
+- Der **Ganzkörper** zeigt das Motiv vollständig im Verhältnis zur Umgebung, oft bei Personen, Tieren oder Szenen mit starkem Kontext.
 
-Symmetrie oder bewusstes Brechen von Regeln.
+- Das **Halbtotal** fokussiert mehr auf Körperhaltung, Umfeld und Interaktion, ohne alles im Bild zu zeigen.
 
-## Licht verstehen
+- Ein **Close‑up** (Detailaufnahme) betont Gesicht, Ausdruck oder ein spezielles Detail und lässt den Hintergrund meist in den Vordergrund rücken.
 
-Natürliches Licht
+- Ein **Detail** zeigt nur einen Teil, etwa Hände, Augen, Texturen oder Strukturen, und lässt viel Raum für Interpretation.
 
-Golden Hour
+Wichtig ist der Umgang mit „Fülle“ im Bild. Ein füllender Rahmen bringt das Motiv nah an den Betrachter heran, lässt wenig oder keine freien Ränder und wirkt oft direkt und eindringlich. Ein luftiger Rahmen dagegen belässt bewusst Abstand und Freiraum um das Motiv, sodass Blicken Raum zum Wandern bleibt, Bewegung suggeriert wird oder die Umgebung sichtbar bleibt.
+Während du fotografierst, solltest du bewusst abwägen: Braucht das Bild mehr Nähe und Konzentration – oder mehr Luft und Raum, um die Stimmung zu tragen?
 
-Hartes und weiches Licht
+## 1.3 Drittelregel und Raster im Sucher
 
-Richtung des Lichts und ihre Wirkung auf das Motiv.
+Die Drittelregel ist eine einfache, aber wirkungsvolle Orientierungshilfe in der Fotografie. Stell dir dein Bild gedacht in drei gleiche Spalten und drei gleiche Zeilen unterteilt vor – so entstehen insgesamt neun Felder und ein Raster im Sucher. Anstatt das Motiv einfach in die Bildmitte zu setzen, legst du es dann entlang dieser Linien oder besser noch an ihren Schnittpunkten ab. Dadurch wirkt das Bild meist ausgewogener, dynamischer und spannender als eine rein zentrale Platzierung.
+
+Du nutzt die Drittelregel vor allem, wenn du das Bild klar strukturieren, Spannung aufbauen oder den Blick des Betrachters gezielt lenken möchtest. Besonders sinnvoll ist es, ein wichtiges Motiv oder einen markanten Bildpunkt an einem dieser Schnittpunkte zu platzieren. Das Auge des Betrachters wird dort von allein hingeführt, ohne dass das Bild statisch wirkt.
+
+Praktische Beispiele:
+
+- **Motiv** (z. B. eine Person, ein Tier, ein Baum): Das zentrale Element wird an einen Drittel‑Schnittpunkt gesetzt, nicht in die Mitte des Bildes.
+
+- **Horizont**: Bei Landschaften oder Meer‑ und Stadtbildern wird der Horizont entweder auf der oberen oder unteren Drittel‑Linie platziert, je nachdem, ob der Himmel oder die Landschaft wichtiger ist.
+
+- **Augen**: Bei Porträts ist es oft gut, die Augen (oder das wichtigste Auge) an einem der oberen Drittel‑Schnittpunkte anzuordnen.
+
+- **Bewegungsrichtung**: Wenn ein Motiv in eine Richtung „blickt“ oder „läuft“, wird ihm vor der Bewegung mehr Platz eingeräumt, indem das Motiv auf der entsprechenden Drittel‑Linie platziert wird – so wirkt die Bewegung geordnet und gerichtet, statt eingeklemmt.
+
+## 1.4 Linienführung und Perspektive
+
+- Führende Linien (Straßen, Wege, Geländer, Zäune, Arme, Blicke).
+
+- Diagonale, horizontale und vertikale Linien und ihre Wirkung.
+
+- Perspektive: von unten, von oben, Augenhöhe – wie sie das Motiv verändert.
+
+## 1.5 Symmetrie, Wiederholung und Muster
+
+- Symmetrische Aufnahmen: wann wirken sie ruhig, wann langweilig?
+
+- Wiederholung von Motiven (Reihen, Fenster, Ranken, Menschen) als Bildwirkung.
+
+- Unterbrechung der Symmetrie bewusst einsetzen, um Spannung zu erzeugen.
+
+## 1.6 Hintergrund, Vordergrund und Tiefenwirkung
+
+- Ruhe vs. Unruhe im Hintergrund.
+
+- Tiefe schaffen: Vordergrund, Mittelgrund, Hintergrund.
+
+- Einsatz von unscharfen Bereichen (Schärfentiefe) zur Trennung.
+
+## 1.7 Negative Space (freier Raum)
+
+- Bedeutung von freien, leeren Bereichen um das Motiv.
+
+- Wie Freiraum dynamisch wirkt (z. B. Raum in Richtung der Bewegung).
+
+- Typische Fehler: zu viel leerer Raum ohne Sinn, zu wenig Raum um das Motiv.
+
+## 1.8 Regeln bewusst brechen
+
+- Warum Regeln wichtig sind, um sie dann zu durchbrechen.
+
+- Beispiele: mittiges Motiv, diagonaler Horizont, „unperfekte“ Bilder, die emotional wirken.
+
+- Gefühl für „richtig“ oder „falsch“ entwickeln.
+
+# 2. Lichtverständnis (Licht und Bildstimmung)
+
+## 2.1 Licht als Grundlage der Fotografie
+
+- Licht bildet das Bild – ohne Licht kein Foto.
+
+- Unterschied zwischen Lichtmenge (Belichtung) und Lichtqualität (Wirkung).
+
+## 2.2 Lichtmenge vs. Lichtqualität
+
+- Lichtmenge: hell/dunkel, Belichtung, EV, Helligkeit, Kontrast.
+
+- Lichtqualität: weich/hart, Farbtemperatur, Schatten, Reflexe, Stimmung.
+
+## 2.3 Weiches und hartes Licht
+
+- Weiches Licht: große, diffuse Lichtquelle, weiche Übergänge, weiche Schatten, schmeichelhaft, z. B. bewölkter Tag, Diffusor.
+
+- Hartes Licht: kleine, direkte Lichtquelle, scharfe Schatten, Kontrast, dramatisch, z. B. Sonne mittags, Blitz ohne Diffusion.
+
+- Wann welches Licht passend ist (Porträt, Landschaft, Street, Drama).
+
+## 2.4 Lichtrichtung
+- Vorderlicht, seitliches Licht, Gegenlicht, Hinterlicht, Obenlicht, Aufhelllicht.
+
+- Wirkung der verschiedenen Lichtrichtungen auf Schatten, Kontur, Tiefe und Atmosphäre.
+
+- Beispiel: seitliches Licht erzeugt mehr Tiefe und Skulptur.
+
+## 2.5 Tageslicht und „Golden Hour“
+- Unterschiede zwischen Tageslichtphasen (Mittagslicht, Morgen, Abend, blaue Stunde).
+
+- Warum Morgen‑ und Abendlicht oft als „goldenes Licht“ beliebt sind.
+
+- Kontraste bei Mittagslicht und wie man damit umgeht.
+
+## 2.6 Kunstlicht und Farbtemperatur
+
+- Typische Lichtquellen: LED, Glühbirne, Neon, Strobo, Blitz, Dauerlicht.
+
+- Farbtemperatur (Kalt = bläulich, Warm = gelblich) und wie sie sich auf die Stimmung auswirkt.
+
+- Kurze Erklärung von Weißabgleich aus gestalterischer Sicht (nicht technisch, sondern emotional).
+
+## 2.7 Lichtkontrast und Schatten
+
+- Hoher Kontrast: dramatisch, spannend, aber riskant bei Details.
+
+- Niedriger Kontrast: weicher, ruhiger, manchmal „flach“.
+
+- Schatten bewusst einsetzen: Silhouetten, Dramatik, Geheimnisvoll.
+
+## 2.8 Licht und Farben
+
+- Wie Lichtfarbe den Gesamteindruck verändert (z. B. Sonnenuntergang = warm, Abendlicht = kalt).
+
+- Stimmung: warmes Licht wirkt freundlich, kühles Licht kann kühl, geheimnisvoll oder sachlich wirken.
+
+- Farbspiele im Bild mit Lichtreflexen, Farbbereichen und Hintergründen.
+
+## 2.9 Licht und Porträt / Motiv
+
+- Wie Licht auf Gesichtszüge, Haut, Konturen und Emotionen wirkt.
+
+- Augenlichtpunkte, Stirn, Wangen, Nase – wie Lichtformen den Eindruck eines Menschen verändert.
+
+- Beleuchtungsideen: seitlich, hinten, von oben, Umrisse beleuchten, Catchlights im Auge.
+
+## 2.10 Bewusste Lichtführung (Ansatz für Fortgeschrittene)
+
+- Gezielter Einsatz von Lichtquellen, Up‑ und Backlight.
+
+- Nutzung von Schatten als Teil des Bildes.
+
+- Idee: Licht nicht nur „zulassen“, sondern bewusst inszenieren.
