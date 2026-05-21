@@ -117,9 +117,18 @@ Am Ende geht es darum, ein Gefühl dafür zu entwickeln, wann etwas „falsch“
 
 ## 2.1 Licht als Grundlage der Fotografie
 
-- Licht bildet das Bild – ohne Licht kein Foto.
+### Licht bildet das Bild – ohne Licht kein Foto
 
-- Unterschied zwischen Lichtmenge (Belichtung) und Lichtqualität (Wirkung).
+Licht ist die Grundlage jeder Fotografie – ohne Licht gibt es letztlich kein Bild. Alles, was du aufnimmst, ist nichts anderes als Licht, das auf deinen Sensor trifft. Abhängig von der Menge und der Art des Lichts entscheidet sich, ob ein Foto hell oder dunkel, scharf oder weich, spannend oder flach wirkt. Selbst die beste Kamera kann ohne Licht keine sichtbare Aufnahme erzeugen, weshalb ein gutes Verständnis von Licht eine der wichtigsten Voraussetzungen für gelungene Bilder ist.
+
+### Unterschied zwischen Lichtmenge (Belichtung) und Lichtqualität (Wirkung)
+
+Es lässt sich zwischen zwei Aspekten unterscheiden: Lichtmenge und Lichtqualität.
+
+- Die Lichtmenge hat mit der Belichtung zu tun: Sie bestimmt, wie hell oder dunkel das Bild ist und ob Blende, Verschlusszeit und ISO richtig gewählt wurden. Zu viel Licht kann zu einem zu hellen, überbelichteten Bild führen, zu wenig Licht zu einem dunklen, verschatteten Bild.
+
+- Die Lichtqualität beschreibt, wie das Licht wirkt: ist es weich oder hart, warm oder kalt, diffus oder direkt, schmeichelnd oder dramatisch? Während die Lichtmenge eher technisch die Belichtung regelt, ist die Lichtqualität maßgeblich für Stimmung, Kontraste, Schatten und damit für den emotionalen Eindruck des Fotos verantwortlich.
+Ein gelungenes Bild nutzt beide Aspekte bewusst: Es ist richtig belichtet und gleichzeitig mit einer Lichtqualität, die die Bildwirkung stützt – sei es ruhig, warm, dramatisch oder spannungsgeladen.
 
 ## 2.2 Lichtmenge vs. Lichtqualität
 
