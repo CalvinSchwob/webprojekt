@@ -95,76 +95,91 @@ Du wählst Blende, Verschlusszeit und ISO selbst. Die Kamera zeigt dir nur, ob d
 ### Verwackelte Bilder
 
 Problem: Die Kamera wird nicht stabil gehalten, vor allem bei langsamer Verschlusszeit.
+
 Lösung: Kamera mit beiden Händen ruhig halten, Ellenbogen an den Körper anlegen, bei längeren Zeiten ein Stativ oder eine Unterlage nutzen und ggf. einen Selbstauslöser oder Timer einsetzen.
 
 ### Zu hohe ISO
 
 Problem: Hoher ISO führt zu rauschigen, körnigen Bildern.
+
 Lösung: ISO möglichst niedrig lassen, stattdessen Blende öffnen oder Verschlusszeit verlängern (nur wenn Bewegungsunschärfe erwünscht ist). Bei dunkleren Szenen lieber ein Stativ nutzen.
 
 ### Falscher Fokuspunkt
 
 Problem: Das wichtigste Motiv ist unscharf, weil der Fokus daneben liegt.
+
 Lösung: Den Fokuspunkt bewusst auf das wichtigste Element legen, bei Bedarf mit Halbdruck des Auslösers scharf stellen oder ein geeignetes Autofokus‑Modus wie Spot‑AF nutzen.
 
 ### Über‑ oder Unterbelichtung
 
 Problem: Bild ist zu hell oder zu dunkel, wichtige Details gehen verloren.
+
 Lösung: Belichtungsmesser im Sucher/Display beobachten, ggf. Belichtungskorrektur verwenden und die Bildvorschau im Histogramm anschauen, um zu sehen, ob hellere oder dunklere Bereiche noch Details haben.
 
 ### Motiv mittig ohne bewusste Gestaltung
 
 Problem: Das Bild wirkt statisch, weil das Motiv immer zentral platziert wird.
+
 Lösung: Drittelregel nutzen – das Motiv entlang der Linien oder an deren Schnittpunkten platzieren und mehr Raum nach vorne oder in Richtung der Bewegung lassen.
 
 ### Unruhiger oder störender Hintergrund
 
 Problem: Der Hintergrund lenkt vom Motiv ab.
+
 Lösung: Blick durch den Sucher schärfen, Hintergrund bewusst wählen, ggf. den Fokuspunkt schmälen, Blende öffnen (kleine Schärfentiefe) oder ein anderes Motivumfeld auswählen.
 
 ### Unsachgemäße Lichtnutzung
 
 Problem: Licht wird nicht beachtet, Fotos wirken flaumig oder unruhig.
+
 Lösung: Auf Lichtrichtung achten (vorne, seitlich, von hinten), möglichst weiches Licht wählen und Lichtquelle im Bild kontrollieren (z. B. Sonne nicht direkt im Hintergrund).
 
 ### Keine Bildschärfenregelung
 
 Problem: Schärfentiefe passt nicht zum Motiv.
+
 Lösung: Blende, Abstand zur Kamera und Brennweite bewusst wählen – offene Blende für unscharfen Hintergrund, kleinere Blende, wenn möglichst viel scharf sein soll.
 
 ### Zu viel „Drücken statt Beobachten“
 
 Problem: Viele Fotos, aber wenig gute Ergebnisse.
+
 Lösung: Vor dem Auslösen Bildausschnitt, Hintergrund, Licht und Komposition kurz prüfen und weniger, aber gezielter fotografieren.
 
 ### Falsche Kamerahaltung / Schwenk
 
 Problem: Kamera wird wackelig gehalten, vor allem bei Zoom oder langen Verschlusszeiten.
+
 Lösung: Stand stabil halten, Arme eng am Körper, ggf. Knie oder Elle aufstützen; bei längeren Zeiten Stativ nutzen.
 
 ### Kein Umgang mit Weißabgleich
 
 Problem: Farben wirken unnatürlich.
+
 Lösung: Für wichtige Situationen einen passenden Weißabgleich (z. B. Tageslicht, Kunstlicht, Schatten) wählen oder Raw‑JPG kombinieren, um Farben später am Rechner anzupassen.
 
 ### Überladen mit Effekten oder Filtern
 
 Problem: Bild wirkt unnatürlich, durch zu viel Kontrast, Sättigung oder Effekte.
+
 Lösung: Effekte sparsam und subtil nutzen, natürliche Farben bewahren und nur dort anwenden, wo es wirklich Sinn macht (z. B. klarer Kontrast bei Landschaften, nicht bei Porträts).
 
 ### Kein Ausprobieren der Kameraeinstellungen
 
 Problem: Man bleibt nur im Automatikmodus.
+
 Lösung: Zeit nehmen, mit Blendenpriorität, Zeitpriorität und manuellen Modus zu experimentieren, um zu verstehen, wie sich Blende, Verschlusszeit und ISO gegenseitig beeinflussen.
 
 ### Keine Bildbewertung nach dem Shooting
 
 Problem: Fehler wiederholen sich, weil man sie nicht bewusst analysiert.
+
 Lösung: Nach dem Shooting Fotos anschauen, auf Schärfe, Belichtung, Komposition und Hintergrund achten und gezielt nach Korrekturen fragen; so lernen sich die Muster schneller.
 
 ### Falsche Erwartung an die Ausrüstung
 
 Problem: Besserer Bildwert wird nur von teurerer Technik erhofft.
+
 Lösung: Technik ist wichtig, aber noch wichtiger sind Verständnis von Licht, 
 Technik, Komposition und Praxis – das kann man mit jeder Kamera trainieren.
 
