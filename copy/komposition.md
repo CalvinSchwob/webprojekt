@@ -73,11 +73,17 @@ Ganz besonders wirkt die bewusste Unterbrechung der Symmetrie oder des Musters. 
 
 ## 1.6 Hintergrund, Vordergrund und Tiefenwirkung
 
-- Ruhe vs. Unruhe im Hintergrund.
+### Ruhe vs. Unruhe im Hintergrund
 
-- Tiefe schaffen: Vordergrund, Mittelgrund, Hintergrund.
+Ein starker Bildaufbau lebt nicht nur vom Motiv selbst, sondern auch davon, wie Hintergrund und Vordergrund eingebunden sind. Ein ruhiger Hintergrund harmonisiert oft mit dem Motiv, lenkt nicht ab und sorgt dafür, dass das Auge sofort beim wichtigsten Bildpunkt bleibt. Im Gegensatz dazu wirkt ein unruhiger Hintergrund – mit viele Farben, Formen oder Detail – schnell ablenkend und zersplittert die Aufmerksamkeit, wenn er nicht gezielt gestaltet wird.
 
-- Einsatz von unscharfen Bereichen (Schärfentiefe) zur Trennung.
+### Tiefe schaffen: Vordergrund, Mittelgrund, Hintergrund
+
+Um Tiefe im Foto zu schaffen, kann man sich bewusst auf drei Ebenen konzentrieren: Vordergrund, Mittelgrund und Hintergrund. Der Vordergrund kann als Einstieg in das Bild dienen – ein interessanter Gegenstand, ein Eselsbrücke‑Motiv oder ungefährer Zwischenraum zwischen Kamera und Hauptmotiv. Der Mittelgrund trägt das eigentliche Motiv, während der Hintergrund die Umgebung, die Stimmung oder den Kontext zeigt. Diese Schichtung lässt das Bild räumlich wirken und führt den Blick des Betrachters in die Tiefe.
+
+### Einsatz von unscharfen Bereichen (Schärfentiefe) zur Trennung
+
+Eine wichtige technische Hilfe für die Bildwirkung ist die Schärfentiefe. Durch gezielte Wahl der Blende, des Abstands und der Brennweite kannst du Bereiche scharf oder unscharf halten. Ein unscharfer Hintergrund (oder Vordergrund) trennt das Motiv optisch vom Rest und lenkt den Blick effektiv auf das, was gezählt werden soll. Gegenteilig kann eine große Schärfentiefe helfen, wenn du mehr von der Umgebung sichtbar machen möchtest – etwa bei Landschaften oder komplexen Szenen. Entscheidend ist, dass du bewusst wählst, was du betonen und was du zurücktreten lässt.
 
 ## 1.7 Negative Space (freier Raum)
 
