@@ -132,17 +132,39 @@ Ein gelungenes Bild nutzt beide Aspekte bewusst: Es ist richtig belichtet und gl
 
 ## 2.2 Lichtmenge vs. Lichtqualität
 
-- Lichtmenge: hell/dunkel, Belichtung, EV, Helligkeit, Kontrast.
+### Lichtmenge: hell/dunkel, Belichtung, EV, Helligkeit, Kontrast
 
-- Lichtqualität: weich/hart, Farbtemperatur, Schatten, Reflexe, Stimmung.
+Die Lichtmenge beschreibt, wie viel Licht insgesamt auf die Kamera trifft und damit die Helligkeit und Belichtung deines Bildes bestimmt. Sie hat direkten Einfluss darauf, ob das Foto eher hell oder dunkel wirkt, welcher Belichtungswert (EV) sich im Sucher zeigt und wie hoch der allgemeine Helligkeits‑ und Kontrastumfang des Bildes ist. Zu viel Licht kann zu einem flachen oder überbelichteten Bild führen, zu wenig Licht zu einem zu dunklen, verschatteten Bild, das wichtige Details verliert. Technisch gesehen wird die Lichtmenge durch Belichtungsparameter wie Blende, Verschlusszeit und ISO geregelt.
+
+### Lichtqualität: weich/hart, Farbtemperatur, Schatten, Reflexe, Stimmung
+
+Anders als die Lichtmenge beschreibt die Lichtqualität, wie das Licht sich im Bild anfühlt und wie es die Stimmung beeinflusst. Dazu gehört, ob es weich (diffus, große Lichtquelle, sanfte Schatten) oder hart (kleine, direkte Lichtquelle, starke Schattenkanten) ist. Wichtig ist außerdem die Farbtemperatur (warm/gelblich oder kalt/bläulich), die Schattenstruktur, Reflexe auf Oberflächen und die Art, wie das Licht Konturen, Tiefe und Raum hervorhebt. Während die Lichtmenge eher technisch ist, bestimmt die Lichtqualität, ob ein Bild ruhig, schmeichelhaft, dramatisch, intensiv oder kalt wirkt – quasi die „emotionale Farbe“ des Fotos. Ein gutes Bild gelingt daher nicht nur bei richtiger Helligkeit, sondern auch bei einer Lichtqualität, die zur Bildidee passt.
 
 ## 2.3 Weiches und hartes Licht
 
-- Weiches Licht: große, diffuse Lichtquelle, weiche Übergänge, weiche Schatten, schmeichelhaft, z. B. bewölkter Tag, Diffusor.
+### Weiches Licht: große, diffuse Lichtquelle, weiche Übergänge, weiche Schatten, schmeichelhaft, z. B. bewölkter Tag, Diffusor
 
-- Hartes Licht: kleine, direkte Lichtquelle, scharfe Schatten, Kontrast, dramatisch, z. B. Sonne mittags, Blitz ohne Diffusion.
+Die Unterscheidung zwischen weichem und hartem Licht hat einen starken Einfluss auf die Wirkung eines Fotos. Weiches Licht entsteht, wenn die Lichtquelle groß und diffus ist und das Licht von vielen Richtungen kommt. Das führt zu weichen, unscharf abgehenden Schatten, fließenden Übergängen zwischen hell und dunkel und einem insgesamt schmeichelhaften, sanften Eindruck. Typische Beispiele sind ein bewölkter Himmel, Tageslicht im Schatten oder eine künstliche Lichtquelle, die durch einen Diffusor, Schirm oder eine große Fläche gestreut wird. Weiches Licht eignet sich besonders für Porträts, Detailaufnahmen und Aufnahmen, bei denen Sie die Haut sanft und die Konturen harmonisch darstellen möchten.
 
-- Wann welches Licht passend ist (Porträt, Landschaft, Street, Drama).
+### Hartes Licht: kleine, direkte Lichtquelle, scharfe Schatten, Kontrast, dramatisch, z. B. Sonne mittags, Blitz ohne Diffusion
+
+Hartes Licht hingegen entsteht, wenn die Lichtquelle klein und direkt ist, etwa die direkte Mittagssonne oder ein Blitz ohne Diffusion. Es erzeugt scharfe, klar definierte Schatten, starke Kontraste und deutliche Hell‑Dunkel‑Unterschiede. Das Resultat wirkt dramatisch, klar und oft mit einem gewissen „Biss“ – je nach Kontext spannend, hart oder auch streng. Hartes Licht passt gut zu Bildern, die Dynamik, Schärfe oder eine kantige Bildsprache brauchen, etwa Street‑Fotografie, architektonische Aufnahmen oder dramatische Bildideen.
+
+### Wann welches Licht passend ist (Porträt, Landschaft, Street, Drama).
+
+Ob weiches oder hartes Licht besser ist, hängt von deiner Bildidee ab.
+
+- Für Porträts oder intime, ruhige Aufnahmen ist oft weiches Licht ideal, weil es das Motiv schmeichelhaft abzeichnet.
+
+- Für Landschaften oder Urban‑Fotografie kann sowohl weiches als auch hartes Licht sinnvoll sein – je nachdem, ob du Weichheit/Atmosphärische Stimmung oder starke Kontraste/Struktur betonen willst.
+
+- Street‑Fotografie profitiert oft von hartem, natürlichen Tageslicht, das klare Schatten und plastische Tiefe erzeugt.
+
+- In dramatischen oder abstrakten Bildern lässt sich hartes Licht gezielt einsetzen, um Spannung und Kontraste zu betonen.
+
+- Für ruhige, poetische oder minimalistische Bilder ist weiches Licht eher die bessere Wahl.
+
+Die Kunst besteht darin, die Lichtqualität an deine Bildwirkung anzupassen – und gegebenenfalls zu entscheiden, ob du sie durch Umschichten oder Diffusion veränderst.
 
 ## 2.4 Lichtrichtung
 - Vorderlicht, seitliches Licht, Gegenlicht, Hinterlicht, Obenlicht, Aufhelllicht.
