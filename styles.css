@@ -46,15 +46,21 @@
     --background: #F6F5F1;
     --kreativ-akzent: #B8A7D9;
     --text: #2A2A2A;
+    --cardOutline: rgba(42, 42, 42, 0.25);
+}
+
+body {
+  background-color: var(--background);
 }
 
 img {
     max-width: 50vw;
 }
 
-h1 {
+h1, h2, h3, h4, h5, h6 {
     font-family: Boska-Variable
 }
+
 
 p {
     font-family: Satoshi-Variable;
@@ -166,4 +172,224 @@ header .callToAction {
 
 /* Styling Intention */
 
+.intention {
+  display: grid;
+  grid-template-columns: 4fr 3fr;
+  padding: 60px;
+  height: calc(100vh - 30px);
+  background-color: var(--background);
+  gap: 20vw;
+}
+
+.intentionText{
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  justify-items: space-between;
+  height: 100%;
+}
+
+.intentionHeading {
+  font-size: 2.5rem;
+  width: 50%;
+}
+
+.intentionCopy {
+  width: 50%;
+  font-size: 1.3rem;
+}
+
+.intentionCardContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+}
+
+.intentionCard {
+  width: 80%;
+  height: 60%;
+  display: flex;
+  flex-direction: column;
+  border: solid, 0.7px, var(--text);
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.intentionKachel {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border: solid, 0.25px, var(--text);
+  padding: 20px;
+  border-radius: 15px;
+  max-height: 90%;
+  
+}
+
+.intentionKachelHeading, .intentionKachelCopy {
+  width: 75%;
+}
+
+.intentionKachelHeading {
+  font-size: 2rem;
+}
+
+.intentionKachelCopy{
+  font-size: 1.2rem;
+}
+
+.intentionKachelLink {
+  text-decoration: none;
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--text);
+  font-family: Satoshi-Variable;
+}
+
+.intentionKachelImg {
+      width: 448px;
+    height: 357px;
+    background: url(./img/figma/modirad.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    overflow: hidden;
+}
+
+/* Ende der Intentions-Sektion */
+
+/* Styling Themen */
+
+.topics {
+  height: calc(100vh - 60px);
+  padding: 0px 60px 0px 60px;
+  background-color: var(--background);
+
+}
+
+.topicGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 3fr;
+  grid-template-areas:
+              "heading heading . ."
+              "text text . ."
+              "card1 card2 card3 card4";
+  align-content: center;
+  height: 90%;
+  align-items: center;
+}
+
+.topicHeading {
+  grid-area: heading;
+}
+
+.topicText {
+  grid-area: text;
+}
+
+.firstCard {
+  grid-area: card1;
+  justify-self: center;
+}
+
+.secondCard {
+  grid-area: card2;
+  justify-self: center;
+}
+
+.thirdCard {
+  grid-area: card3;
+  justify-self: center;
+}
+
+.fourthCard {
+  grid-area: card4;
+  justify-self: center;
+}
+
+.topicHeading{
+  width: 50%;
+  font-size: 2rem;
+}
+
+.topicText {
+  width: 75%;
+  font-size: 1.5rem;
+}
+
+.topicCard {
+  padding: 20px;
+
+  border: solid 1px var(--cardOutline);
+  border-radius: 15px;
+  background-color: white;
+  box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  max-width: 300px;
+  height: 85%;
+}
+
+.topicCard .cardHeading {
+  font-size: 1.5rem;
+}
+
+.topicCard .topicLink {
+  text-decoration: none;
+  color: var(--kreativ-akzent);
+  font-family: Boska-Variable;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.topicIcon1 {
+  background-image: url(./img/figma/lancier-rose-7698947.png);
+  width: 64px;
+  height: 64px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  border: solid 1px var(--cardOutline);
+  border-radius: 100px;
+}
+
+.topicIcon2 {
+  background-image: url(./img/figma/himbeere_ausgeschnitten_genau.png);
+  width: 64px;
+  height: 64px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  border: solid 1px var(--cardOutline);
+  border-radius: 100px;
+}
+
+.topicIcon3 {
+  background-image: url(./img/figma/schmetterling_blau_freigestellt.png);
+  width: 64px;
+  height: 64px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  border: solid 1px var(--cardOutline);
+  border-radius: 100px;
+}
+
+.topicIcon4 {
+  background-image: url(./img/figma/dalie_ausgeschnitten.png);
+  width: 64px;
+  height: 64px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  border: solid 1px var(--cardOutline);
+  border-radius: 100px;
+}
 
