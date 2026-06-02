@@ -1,0 +1,85 @@
+@font-face {
+  font-family: 'Boska-Variable';
+  src: url('../fonts/boska/Boska-Variable.woff2') format('woff2'),
+       url('../fonts/boska/Boska-Variable.woff') format('woff'),
+       url('../fonts/boska/Boska-Variable.ttf') format('truetype');
+  font-weight: 200 900;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Boska-VariableItalic';
+  src: url('../fonts/boska/Boska-VariableItalic.woff2') format('woff2'),
+       url('../fonts/boska/Boska-VariableItalic.woff') format('woff'),
+       url('../fonts/boska/Boska-VariableItalic.ttf') format('truetype');
+  font-weight: 200 900;
+  font-display: swap;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Satoshi-Variable';
+  src: url('../fonts/satoshi/Satoshi-Variable.woff2') format('woff2'),
+       url('../fonts/satoshi/Satoshi-Variable.woff') format('woff'),
+       url('../fonts/satoshi/Satoshi-Variable.ttf') format('truetype');
+  font-weight: 300 900;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Satoshi-VariableItalic';
+  src: url('../fonts/satoshi/Satoshi-VariableItalic.woff2') format('woff2'),
+       url('../fonts/satoshi/Satoshi-VariableItalic.woff') format('woff'),
+       url('../fonts/satoshi/Satoshi-VariableItalic.ttf') format('truetype');
+  font-weight: 300 900;
+  font-display: swap;
+  font-style: italic;
+}
+
+
+
+:root {
+    --primary: #5F8F7B;
+    --secundary: #2F7C7C;
+    --background: #F6F5F1;
+    --kreativ-akzent: #B8A7D9;
+    --text: #2A2A2A;
+}
+
+img {
+    max-width: 50vw;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    border: var(--text),1px , solid;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: solid;
+    border-left-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: var(--text);
+    font-size: 20px;
+    text-align: center;
+    font-family: Satoshi-Variable;
+
+}
+
+.icon {
+    width: 64px;
+}
+
+.callToAction {
+    font-size: 40px;
+    color: var(--secundary);
+    font-weight: bold;
+    font-family: Boska-Variable;
+}
