@@ -58,7 +58,8 @@ img {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: Boska-Variable
+    font-family: Boska-Variable;
+    color: var(--text);
 }
 
 
@@ -392,14 +393,14 @@ header .callToAction {
 /* Profil styling */
 
 .profil {
-  padding: 60px;
+  padding: 0 60px 0 60px;
   height: 100vh;
 }
 
 .profilGrid {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: 2fr 2fr 1fr 2fr 2fr; 
+  grid-template-rows: 1fr 2fr 1fr 2fr 2fr; 
   height: 90%;
   grid-template-areas:
   "heading heading . picture picture picture"
@@ -508,3 +509,115 @@ header .callToAction {
 
 }
 
+/* Ende Styling Profil*/
+
+/* Start Styling Ende */
+
+.end {
+  padding: 0 60px 0 60px;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: auto 1fr 1fr 2fr;
+  gap: 30px;
+  grid-template-areas: 
+    "eyebrow  . . . . ."
+    "heading heading . qoute qoute ."
+    "text text . qoute qoute ."
+    "card1 card1 card2 card2 card3 card3";
+  align-items: center;
+}
+
+.eyebrow {
+  grid-area: eyebrow;
+  margin: 0;
+  font-size: 1.5rem;
+  align-self: end;
+}
+
+.endHeading {
+  grid-area: heading;
+  font-size: 4rem;
+  font-weight: 600;
+  margin: 0;
+  align-self: end;
+}
+
+.endText {
+  grid-area: text;
+  font-size: 1.5rem;
+  align-self: start;
+}
+
+.endQoute {
+  grid-area: qoute;
+  border: solid 1px var(--cardOutline);
+  border-radius: 15px;
+  font-size: 2.5rem;
+  padding: 20px;
+  box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
+  width: 75%;
+  justify-self: center;
+}
+
+.endQouteText {
+  margin: 0;
+}
+
+.endCard {
+  border: solid 1px var(--cardOutline);
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: inset 10px 0px 4px 0px var(--kreativ-akzent);
+  align-self: stretch;
+  justify-self: center;;
+  width: 75%;
+  height: 75%
+}
+
+.endCard1 {
+  grid-area: card1;
+}
+
+.endCard2 {
+  grid-area: card2;
+}
+
+.endCard3 {
+  grid-area: card3;
+}
+
+.endCardTop{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.endCardTopCircle {
+  width: 20px;
+  height: 20px;
+  background-color: var(--kreativ-akzent);
+  border-radius: 1000px;
+}
+
+.endCardNumber {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.endCardHeading {
+  font-size: 2rem;
+  margin: 0;
+  margin-top: 5px;
+}
+
+.endCardText {
+  font-size: 1.5rem;
+}
+
+.endCardLink {
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: var(--text);
+  font-weight: bold;
+  font-family: Satoshi-Variable;
+}
