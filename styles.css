@@ -287,10 +287,14 @@ header .callToAction {
 
 .topicHeading {
   grid-area: heading;
+  width: 50%;
+  font-size: 2rem;
 }
 
 .topicText {
   grid-area: text;
+  width: 75%;
+  font-size: 1.2rem;
 }
 
 .firstCard {
@@ -311,16 +315,6 @@ header .callToAction {
 .fourthCard {
   grid-area: card4;
   justify-self: center;
-}
-
-.topicHeading{
-  width: 50%;
-  font-size: 2rem;
-}
-
-.topicText {
-  width: 75%;
-  font-size: 1.5rem;
 }
 
 .topicCard {
@@ -391,5 +385,126 @@ header .callToAction {
   background-size: contain;
   border: solid 1px var(--cardOutline);
   border-radius: 100px;
+}
+
+/* End of topic-styling */
+
+/* Profil styling */
+
+.profil {
+  padding: 60px;
+  height: 100vh;
+}
+
+.profilGrid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: 2fr 2fr 1fr 2fr 2fr; 
+  height: 90%;
+  grid-template-areas:
+  "heading heading . picture picture picture"
+  "text text . picture picture picture"
+  "tags tags . picture picture picture"
+  "ich ich ich warum warum warum"
+  "box01 box01 box02 box02 box03 box03";
+  align-items: center;
+  gap: 20px;
+}
+
+.profilHeading {
+  grid-area: heading;
+  font-size: 2rem;
+}
+
+.profilText {
+  grid-area: text;
+  font-size: 1.2rem;
+}
+
+.profilPicture {
+  grid-area: picture;
+}
+
+.profilTagContainer {
+  grid-area: tags;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.profilTagContainer > .profilTag {
+  padding: 10px;
+  border: solid, 1px, var(--cardOutline);
+  border-radius: 100px;
+  font-family: Satoshi-Variable
+}
+
+.profilArticle {
+  box-shadow: inset 10px 0px 0px 0px var(--kreativ-akzent);
+  border: solid 1px var(--cardOutline);
+  height: calc(100% - 40px);
+  border-radius: 15px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.profilArticleHeading {
+  font-family: Boska-Variable;
+  font-weight: 600;
+  font-size: 1.5rem;
+  margin-bottom: -10px;
+  margin-top: -5px;
+}
+
+.profilArticleText {
+  margin-bottom: -10px;
+}
+
+.profilArticle1 {
+  grid-area: ich;
+}
+
+.profilArticle2 {
+  grid-area: warum;
+}
+
+.profilBox {
+  border: solid 1px var(--cardOutline);
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 1.5px 1.5px 10px 1px rgba(0,0,0,0.1);
+}
+
+.profilBox01 {
+ grid-area: box01;
+}
+
+.profilBox02 {
+  grid-area: box02;
+}
+
+.profilBox03 {
+  grid-area: box03;
+}
+
+.articleBoxText {
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+
+.profilPicture {
+  height: 100%;
+  width: auto;
+  aspect-ratio: 1;
+  border: #2A2A2A solid 1px;
+  justify-self: center;
+  border-radius: 1000px;
+  background-image: url(./img/figma/profilbild.jpeg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+
 }
 
