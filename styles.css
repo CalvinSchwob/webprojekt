@@ -766,6 +766,7 @@ header .callToAction {
   justify-self: center;
   align-self: center;
   background-color: white;
+  min-width: calc(100vw * 0.2)
 }
 
 .blendwertSettingsEyebrow {
