@@ -846,7 +846,7 @@ header .callToAction {
 }
 
 .sliderImgRightIso {
-  grid-area: img1;
+  grid-area: img2;
   background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e9/Dynax_7D_iso3200.jpg);
   background-repeat: no-repeat;
   background-position: center center;
