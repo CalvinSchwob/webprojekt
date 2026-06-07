@@ -51,6 +51,7 @@
 
 body {
   background-color: var(--background);
+  margin: 0;
 }
 
 img {
@@ -88,6 +89,11 @@ header a {
     text-align: center;
     font-family: Satoshi-Variable;
 
+}
+
+.sectionStyling {
+  height: calc(100vh - 120px);
+  padding: 60px;
 }
 
 .icon {
@@ -552,15 +558,17 @@ header .callToAction {
   grid-area: qoute;
   border: solid 1px var(--cardOutline);
   border-radius: 15px;
-  font-size: 2.5rem;
-  padding: 20px;
+  font-size: 2rem;
+  padding: 30px;
+  width: 60%;
   box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
-  width: 75%;
   justify-self: center;
 }
 
 .endQouteText {
   margin: 0;
+  font-weight: 500;
+  font-family: Satoshi-Variable;
 }
 
 .endCard {
@@ -576,6 +584,7 @@ header .callToAction {
 
 .endCard1 {
   grid-area: card1;
+  justify-self: start;
 }
 
 .endCard2 {
@@ -584,6 +593,7 @@ header .callToAction {
 
 .endCard3 {
   grid-area: card3;
+  justify-self: end;;
 }
 
 .endCardTop{
@@ -621,3 +631,265 @@ header .callToAction {
   font-weight: bold;
   font-family: Satoshi-Variable;
 }
+
+/* End Ending Styling */
+
+/* Footer Styling */
+
+.footer {
+  background-color: var(--kreativ-akzent);
+  padding: 20px;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footerIcon {
+  width: 80px;
+  height: 80px;
+  background-image: url(./img/figma/dalie_ausgeschnitten.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+}
+
+.footerLink {
+  text-decoration: none;
+  color: var(--background);
+  font-size: 1.2rem;
+  font-family: Satoshi-Variable;
+}
+
+/* Setting Styling */
+
+/* Intro Styling */
+
+.settingsIntro {
+  margin: 60px;
+  height: calc(100vh - 120px);
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-template-rows: 1fr 2fr 2fr 1fr;
+  grid-template-areas: 
+    "eyebrow eyebrow eyebrow . . . . . . ."
+    "heading heading heading heading heading . img img img img"
+    "text text text text text . img img img img"
+    "tag1 tag2 tag3 . . . . . . ."
+}
+
+.settingHeading {
+  grid-area: heading;
+  font-size: 4rem;
+  font-weight: 600;
+  align-self: center;;
+}
+
+.introText {
+  grid-area: text;
+  font-size: 1.5rem;
+}
+
+.introTag {
+  font-size: 1.2rem;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.tag1 {
+  grid-area: tag1;
+}
+
+.tag2 {
+  grid-area: tag2;
+}
+
+.tag3 {
+  grid-area: tag3;
+}
+
+.introImg {
+  grid-area: img;
+  height: -webkit-fill-available;
+  border-radius: 30px;
+}
+
+/* Ende Styling Intro (wiederverwendbar) */
+
+.blendwertIntro {
+  height: calc(100vh - 120px);
+  padding: 60px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 1fr 3fr 6fr;
+  grid-template-areas: 
+    "eyebrow . . ."
+    "heading heading . ."
+    "text text . ."
+}
+
+.blendwertHeading {
+  grid-area: heading;
+  font-size: 4rem;
+  font-weight: 600;
+  align-self: center;
+}
+
+.blendwertText {
+  grid-area: text;
+  font-size: 2rem;
+  align-self: center;
+}
+
+/* Styling Intro End */
+
+/* Styling Settings */
+
+.blendwertSettings {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 1fr, 2fr, 2fr 3fr;
+  grid-template-areas: 
+    "eyebrow . ."
+    "heading heading ."
+    "text . ."
+    "card1 card2 card3";
+}
+
+.blendwertSettingsCard {
+  border: solid, var(--text), 1px;
+  width: fit-content;
+  height: fit-content;
+  padding: 30px;
+  border-radius: 15px;
+  justify-self: center;
+  align-self: center;
+  background-color: white;
+}
+
+.blendwertSettingsEyebrow {
+  align-self: center;
+}
+
+.blendwertSettingsHeading {
+  grid-area: heading;
+  font-size: 4rem;
+}
+
+.blendwertSettingsText {
+  grid-area: text;
+  font-size: 1.5rem;
+}
+
+.cardEyebrow {
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.settingCardText {
+  font-size: 2rem;
+  color: var(--primary);
+  font-weight: 1000;
+}
+
+.blendwertCard1 {
+  grid-area: card1;
+  justify-self: center;
+}
+
+.blendwertCard2 {
+  grid-area: card2;
+  justify-self: center;
+}
+
+.blendwertCard3 {
+  grid-area: card3;
+  justify-self: center;
+}
+
+/* End Styling Settings */
+
+/* Start Slider Styling */
+
+.slider {
+  height: calc(100vh - 120px);
+  padding: 60px;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: 4fr 1fr 1fr 1fr;
+  grid-template-areas: 
+    "img1 img1 . . img2 img2"
+    "eyebrowLeft eyebrowLeft . . eyebrowRight eyebrowRight"
+    "headingLeft headingLeft . . headingRight headingRight"
+    "textLeft textLeft  textLeft textRight textRight textRight";
+}
+
+.sliderImg {
+  background-image: url(./img/figma/modirad.jpeg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  border-radius: 30px;
+  box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.1);
+}
+
+.sliderImgRight {
+  grid-area: img1;
+}
+
+.sliderImgLeft {
+  grid-area: img2;
+}
+
+.sliderEyebrow {
+  color: var(--primary);
+  font-weight: 1000;
+  font-style: italic;
+  font-size: 2rem;
+  align-self: end;
+}
+
+.eyebrowLeft {
+  grid-area: eyebrowLeft;
+}
+
+.eyebrowRight {
+  grid-area: eyebrowRight;
+  justify-self: right;
+}
+
+.sliderHeading {
+  font-size: 2.8rem;
+}
+
+.sliderHeadingLeft {
+  grid-area: headingLeft;
+} 
+
+.sliderHeadingRight {
+  grid-area: headingRight;
+  justify-self: right;
+  text-align: right;
+}
+
+.sliderText {
+  font-size: 1.5rem;
+}
+
+.sliderTextLeft {
+  grid-area: textLeft;
+  width: 75%;
+}
+
+.sliderTextRight {
+  grid-area: textRight;
+  text-align: end;
+  width: 75%;
+  justify-self: right;
+}
+
+/* End Slider Styling */
+
+/* Styling Praxisbereich */
+
