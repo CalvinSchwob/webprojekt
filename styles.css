@@ -94,6 +94,7 @@ header a {
 .sectionStyling {
   height: calc(100vh - 120px);
   padding: 60px;
+  background-color: var(--background);
 }
 
 .icon {
@@ -892,4 +893,44 @@ header .callToAction {
 /* End Slider Styling */
 
 /* Styling Praxisbereich */
+
+.praxisHeading {
+  font-size: 4rem;
+}
+
+.praxisText {
+  font-size: 1.5rem;
+}
+
+.praxisbereich {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+}
+
+.praxisCard {
+  background-color: white;
+  padding: 40px;
+  border-radius: 30px;
+  border: 1px solid var(--cardOutline);
+  box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.1);
+}
+
+.praxisCardEyebrow {
+  color: var(--primary);
+  font-weight: 1000;
+  font-size: 1.5rem;
+}
+
+.praxisCardHeading {
+  font-size: 2rem;
+}
+
+.praxisCardText {
+  font-size: 1.2rem;
+}
+
+/* End Styling Praxisbrerich */
+
+/* Styling Double Card Bereich */
 
