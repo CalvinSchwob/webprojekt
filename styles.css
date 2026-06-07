@@ -1,0 +1,1001 @@
+@font-face {
+  font-family: 'Boska-Variable';
+  src: url('../fonts/boska/Boska-Variable.woff2') format('woff2'),
+       url('../fonts/boska/Boska-Variable.woff') format('woff'),
+       url('../fonts/boska/Boska-Variable.ttf') format('truetype');
+  font-weight: 200 900;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Boska-VariableItalic';
+  src: url('../fonts/boska/Boska-VariableItalic.woff2') format('woff2'),
+       url('../fonts/boska/Boska-VariableItalic.woff') format('woff'),
+       url('../fonts/boska/Boska-VariableItalic.ttf') format('truetype');
+  font-weight: 200 900;
+  font-display: swap;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Satoshi-Variable';
+  src: url('../fonts/satoshi/Satoshi-Variable.woff2') format('woff2'),
+       url('../fonts/satoshi/Satoshi-Variable.woff') format('woff'),
+       url('../fonts/satoshi/Satoshi-Variable.ttf') format('truetype');
+  font-weight: 300 900;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Satoshi-VariableItalic';
+  src: url('../fonts/satoshi/Satoshi-VariableItalic.woff2') format('woff2'),
+       url('../fonts/satoshi/Satoshi-VariableItalic.woff') format('woff'),
+       url('../fonts/satoshi/Satoshi-VariableItalic.ttf') format('truetype');
+  font-weight: 300 900;
+  font-display: swap;
+  font-style: italic;
+}
+
+
+
+:root {
+    --primary: #5F8F7B;
+    --secundary: #2F7C7C;
+    --background: #F6F5F1;
+    --kreativ-akzent: #B8A7D9;
+    --text: #2A2A2A;
+    --cardOutline: rgba(42, 42, 42, 0.25);
+}
+
+body {
+  background-color: var(--background);
+  margin: 0;
+}
+
+img {
+    max-width: 50vw;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Boska-Variable;
+    color: var(--text);
+}
+
+
+p {
+    font-family: Satoshi-Variable;
+}
+
+/* Header Styling */
+
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    border: var(--text),1px , solid;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: solid;
+    border-left-style: none;
+}
+
+header a {
+    text-decoration: none;
+    color: var(--text);
+    font-size: 20px;
+    text-align: center;
+    font-family: Satoshi-Variable;
+
+}
+
+.sectionStyling {
+  height: calc(100vh - 120px);
+  padding: 60px;
+  background-color: var(--background);
+}
+
+.icon {
+    width: 64px;
+}
+
+header .callToAction {
+    font-size: 40px;
+    color: var(--secundary);
+    font-weight: bold;
+    font-family: Boska-Variable;
+}
+
+/* Header Styling */
+
+/* Hero Banner */
+
+.photo-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: stretch;
+  gap: 4rem;
+  padding-top: 2rem;
+  background: var(--background);
+  min-height: 85vh;
+}
+
+.photo-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-left: 1rem;
+}
+
+.photo-text h2 {
+  margin: 0;
+  font-size: 80px;
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 500;
+  color: var(--text);
+}
+
+.photo-text p {
+  max-width: 32rem;
+  line-height: 1.5;
+  color: var(--text);
+  font-size: 2vh;
+}
+
+.photo-text .qoute {
+  margin: 0;
+  max-width: 28rem;
+  font-size: 1.1rem;
+  line-height: 1.5;
+  color: var(--text);
+  font-family: Satoshi-Variable;
+}
+
+.photo-text .author {
+  margin-top: 1rem;
+  font-size: 1rem;
+  color: var(--text);
+}
+
+.photo-visual {
+  background: #c6b4ea;
+  border-top-left-radius: 4.5rem;
+  border-bottom-left-radius: 4.5rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 650px;
+}
+
+.photo-visual img {
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+/* Ende Hero-Banner */
+
+/* Styling Intention */
+
+.intention {
+  display: grid;
+  grid-template-columns: 4fr 3fr;
+  padding: 60px;
+  height: calc(100vh - 30px);
+  background-color: var(--background);
+  gap: 20vw;
+}
+
+.intentionText{
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  justify-items: space-between;
+  height: 100%;
+}
+
+.intentionHeading {
+  font-size: 2.5rem;
+  width: 50%;
+}
+
+.intentionCopy {
+  width: 50%;
+  font-size: 1.3rem;
+}
+
+.intentionCardContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+}
+
+.intentionCard {
+  width: 80%;
+  height: 60%;
+  display: flex;
+  flex-direction: column;
+  border: solid, 0.7px, var(--text);
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.intentionKachel {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border: solid, 0.25px, var(--text);
+  padding: 20px;
+  border-radius: 15px;
+  max-height: 90%;
+  
+}
+
+.intentionKachelHeading, .intentionKachelCopy {
+  width: 75%;
+}
+
+.intentionKachelHeading {
+  font-size: 2rem;
+}
+
+.intentionKachelCopy{
+  font-size: 1.2rem;
+}
+
+.intentionKachelLink {
+  text-decoration: none;
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--text);
+  font-family: Satoshi-Variable;
+}
+
+.intentionKachelImg {
+      width: 448px;
+    height: 357px;
+    background: url(./img/figma/modirad.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    overflow: hidden;
+}
+
+/* Ende der Intentions-Sektion */
+
+/* Styling Themen */
+
+.topics {
+  height: calc(100vh - 60px);
+  padding: 0px 60px 0px 60px;
+  background-color: var(--background);
+
+}
+
+.topicGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 3fr;
+  grid-template-areas:
+              "heading heading . ."
+              "text text . ."
+              "card1 card2 card3 card4";
+  align-content: center;
+  height: 90%;
+  align-items: center;
+}
+
+.topicHeading {
+  grid-area: heading;
+  width: 50%;
+  font-size: 2rem;
+}
+
+.topicText {
+  grid-area: text;
+  width: 75%;
+  font-size: 1.2rem;
+}
+
+.firstCard {
+  grid-area: card1;
+  justify-self: center;
+}
+
+.secondCard {
+  grid-area: card2;
+  justify-self: center;
+}
+
+.thirdCard {
+  grid-area: card3;
+  justify-self: center;
+}
+
+.fourthCard {
+  grid-area: card4;
+  justify-self: center;
+}
+
+.topicCard {
+  padding: 20px;
+
+  border: solid 1px var(--cardOutline);
+  border-radius: 15px;
+  background-color: white;
+  box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  max-width: 300px;
+  height: 85%;
+}
+
+.topicCard .cardHeading {
+  font-size: 1.5rem;
+}
+
+.topicCard .topicLink {
+  text-decoration: none;
+  color: var(--kreativ-akzent);
+  font-family: Boska-Variable;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.topicIcon1 {
+  background-image: url(./img/figma/lancier-rose-7698947.png);
+  width: 64px;
+  height: 64px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  border: solid 1px var(--cardOutline);
+  border-radius: 100px;
+}
+
+.topicIcon2 {
+  background-image: url(./img/figma/himbeere_ausgeschnitten_genau.png);
+  width: 64px;
+  height: 64px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  border: solid 1px var(--cardOutline);
+  border-radius: 100px;
+}
+
+.topicIcon3 {
+  background-image: url(./img/figma/schmetterling_blau_freigestellt.png);
+  width: 64px;
+  height: 64px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  border: solid 1px var(--cardOutline);
+  border-radius: 100px;
+}
+
+.topicIcon4 {
+  background-image: url(./img/figma/dalie_ausgeschnitten.png);
+  width: 64px;
+  height: 64px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  border: solid 1px var(--cardOutline);
+  border-radius: 100px;
+}
+
+/* End of topic-styling */
+
+/* Profil styling */
+
+.profil {
+  padding: 0 60px 0 60px;
+  height: 100vh;
+}
+
+.profilGrid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: 1fr 2fr 1fr 2fr 2fr; 
+  height: 90%;
+  grid-template-areas:
+  "heading heading . picture picture picture"
+  "text text . picture picture picture"
+  "tags tags . picture picture picture"
+  "ich ich ich warum warum warum"
+  "box01 box01 box02 box02 box03 box03";
+  align-items: center;
+  gap: 20px;
+}
+
+.profilHeading {
+  grid-area: heading;
+  font-size: 2rem;
+}
+
+.profilText {
+  grid-area: text;
+  font-size: 1.2rem;
+}
+
+.profilPicture {
+  grid-area: picture;
+}
+
+.profilTagContainer {
+  grid-area: tags;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.profilTagContainer > .profilTag {
+  padding: 10px;
+  border: solid, 1px, var(--cardOutline);
+  border-radius: 100px;
+  font-family: Satoshi-Variable
+}
+
+.profilArticle {
+  box-shadow: inset 10px 0px 0px 0px var(--kreativ-akzent);
+  border: solid 1px var(--cardOutline);
+  height: calc(100% - 40px);
+  border-radius: 15px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.profilArticleHeading {
+  font-family: Boska-Variable;
+  font-weight: 600;
+  font-size: 1.5rem;
+  margin-bottom: -10px;
+  margin-top: -5px;
+}
+
+.profilArticleText {
+  margin-bottom: -10px;
+}
+
+.profilArticle1 {
+  grid-area: ich;
+}
+
+.profilArticle2 {
+  grid-area: warum;
+}
+
+.profilBox {
+  border: solid 1px var(--cardOutline);
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 1.5px 1.5px 10px 1px rgba(0,0,0,0.1);
+}
+
+.profilBox01 {
+ grid-area: box01;
+}
+
+.profilBox02 {
+  grid-area: box02;
+}
+
+.profilBox03 {
+  grid-area: box03;
+}
+
+.articleBoxText {
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+
+.profilPicture {
+  height: 100%;
+  width: auto;
+  aspect-ratio: 1;
+  border: #2A2A2A solid 1px;
+  justify-self: center;
+  border-radius: 1000px;
+  background-image: url(./img/figma/profilbild.jpeg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+
+}
+
+/* Ende Styling Profil*/
+
+/* Start Styling Ende */
+
+.end {
+  padding: 0 60px 0 60px;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: auto 1fr 1fr 2fr;
+  gap: 30px;
+  grid-template-areas: 
+    "eyebrow  . . . . ."
+    "heading heading . qoute qoute ."
+    "text text . qoute qoute ."
+    "card1 card1 card2 card2 card3 card3";
+  align-items: center;
+}
+
+.eyebrow {
+  grid-area: eyebrow;
+  margin: 0;
+  font-size: 1.5rem;
+  align-self: end;
+}
+
+.endHeading {
+  grid-area: heading;
+  font-size: 4rem;
+  font-weight: 600;
+  margin: 0;
+  align-self: end;
+}
+
+.endText {
+  grid-area: text;
+  font-size: 1.5rem;
+  align-self: start;
+}
+
+.endQoute {
+  grid-area: qoute;
+  border: solid 1px var(--cardOutline);
+  border-radius: 15px;
+  font-size: 2rem;
+  padding: 30px;
+  width: 60%;
+  box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
+  justify-self: center;
+}
+
+.endQouteText {
+  margin: 0;
+  font-weight: 500;
+  font-family: Satoshi-Variable;
+}
+
+.endCard {
+  border: solid 1px var(--cardOutline);
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: inset 10px 0px 4px 0px var(--kreativ-akzent);
+  align-self: stretch;
+  justify-self: center;;
+  width: 75%;
+  height: 75%
+}
+
+.endCard1 {
+  grid-area: card1;
+  justify-self: start;
+}
+
+.endCard2 {
+  grid-area: card2;
+}
+
+.endCard3 {
+  grid-area: card3;
+  justify-self: end;;
+}
+
+.endCardTop{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.endCardTopCircle {
+  width: 20px;
+  height: 20px;
+  background-color: var(--kreativ-akzent);
+  border-radius: 1000px;
+}
+
+.endCardNumber {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.endCardHeading {
+  font-size: 2rem;
+  margin: 0;
+  margin-top: 5px;
+}
+
+.endCardText {
+  font-size: 1.5rem;
+}
+
+.endCardLink {
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: var(--text);
+  font-weight: bold;
+  font-family: Satoshi-Variable;
+}
+
+/* End Ending Styling */
+
+/* Footer Styling */
+
+.footer {
+  background-color: var(--kreativ-akzent);
+  padding: 60px;
+  height: 80px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.footerIcon {
+  width: 80px;
+  height: 80px;
+  background-image: url(./img/figma/dalie_ausgeschnitten.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+}
+
+.footerLink {
+  text-decoration: none;
+  color: var(--background);
+  font-size: 1.2rem;
+  font-family: Satoshi-Variable;
+}
+
+/* Setting Styling */
+
+/* Intro Styling */
+
+.settingsIntro {
+  margin: 60px;
+  height: calc(100vh - 120px);
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-template-rows: 1fr 2fr 2fr 1fr;
+  grid-template-areas: 
+    "eyebrow eyebrow eyebrow . . . . . . ."
+    "heading heading heading heading heading . img img img img"
+    "text text text text text . img img img img"
+    "tag1 tag2 tag3 . . . . . . ."
+}
+
+.settingHeading {
+  grid-area: heading;
+  font-size: 4rem;
+  font-weight: 600;
+  align-self: center;;
+}
+
+.introText {
+  grid-area: text;
+  font-size: 1.5rem;
+}
+
+.introTag {
+  font-size: 1.2rem;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.tag1 {
+  grid-area: tag1;
+}
+
+.tag2 {
+  grid-area: tag2;
+}
+
+.tag3 {
+  grid-area: tag3;
+}
+
+.introImg {
+  grid-area: img;
+  height: -webkit-fill-available;
+  border-radius: 30px;
+}
+
+/* Ende Styling Intro (wiederverwendbar) */
+
+.blendwertIntro {
+  height: calc(100vh - 120px);
+  padding: 60px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 1fr 3fr 6fr;
+  grid-template-areas: 
+    "eyebrow . . ."
+    "heading heading . ."
+    "text text . ."
+}
+
+.blendwertHeading {
+  grid-area: heading;
+  font-size: 4rem;
+  font-weight: 600;
+  align-self: center;
+}
+
+.blendwertText {
+  grid-area: text;
+  font-size: 2rem;
+  align-self: center;
+}
+
+/* Styling Intro End */
+
+/* Styling Settings */
+
+.blendwertSettings {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 1fr, 2fr, 2fr 3fr;
+  grid-template-areas: 
+    "eyebrow . ."
+    "heading heading ."
+    "text . ."
+    "card1 card2 card3";
+}
+
+.blendwertSettingsCard {
+  border: solid, var(--text), 1px;
+  width: fit-content;
+  height: fit-content;
+  padding: 30px;
+  border-radius: 15px;
+  justify-self: center;
+  align-self: center;
+  background-color: white;
+  min-width: calc(100vw * 0.2)
+}
+
+.blendwertSettingsEyebrow {
+  align-self: center;
+}
+
+.blendwertSettingsHeading {
+  grid-area: heading;
+  font-size: 4rem;
+}
+
+.blendwertSettingsText {
+  grid-area: text;
+  font-size: 1.5rem;
+}
+
+.cardEyebrow {
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.settingCardText {
+  font-size: 2rem;
+  color: var(--primary);
+  font-weight: 1000;
+}
+
+.blendwertCard1 {
+  grid-area: card1;
+  justify-self: center;
+}
+
+.blendwertCard2 {
+  grid-area: card2;
+  justify-self: center;
+}
+
+.blendwertCard3 {
+  grid-area: card3;
+  justify-self: center;
+}
+
+/* End Styling Settings */
+
+/* Start Slider Styling */
+
+.slider {
+  height: calc(100vh - 120px);
+  padding: 60px;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: 4fr 1fr 1fr 1fr;
+  grid-template-areas: 
+    "img1 img1 . . img2 img2"
+    "eyebrowLeft eyebrowLeft . . eyebrowRight eyebrowRight"
+    "headingLeft headingLeft . . headingRight headingRight"
+    "textLeft textLeft  textLeft textRight textRight textRight";
+}
+
+.sliderImg {
+  background-image: url(./img/figma/modirad.jpeg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  border-radius: 30px;
+  box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.1);
+}
+
+.sliderImgRight {
+  grid-area: img1;
+}
+
+.sliderImgLeft {
+  grid-area: img2;
+}
+
+.sliderEyebrow {
+  color: var(--primary);
+  font-weight: 1000;
+  font-style: italic;
+  font-size: 2rem;
+  align-self: end;
+}
+
+.eyebrowLeft {
+  grid-area: eyebrowLeft;
+}
+
+.eyebrowRight {
+  grid-area: eyebrowRight;
+  justify-self: right;
+}
+
+.sliderHeading {
+  font-size: 2.8rem;
+}
+
+.sliderHeadingLeft {
+  grid-area: headingLeft;
+} 
+
+.sliderHeadingRight {
+  grid-area: headingRight;
+  justify-self: right;
+  text-align: right;
+}
+
+.sliderText {
+  font-size: 1.5rem;
+}
+
+.sliderTextLeft {
+  grid-area: textLeft;
+  width: 75%;
+}
+
+.sliderTextRight {
+  grid-area: textRight;
+  text-align: end;
+  width: 75%;
+  justify-self: right;
+}
+
+/* End Slider Styling */
+
+/* Styling Praxisbereich */
+
+.praxisHeading {
+  font-size: 4rem;
+}
+
+.praxisText {
+  font-size: 1.5rem;
+}
+
+.praxisbereich {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  padding: 60px;
+}
+
+.praxisCard {
+  background-color: white;
+  padding: 40px;
+  border-radius: 30px;
+  border: 1px solid var(--cardOutline);
+  box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.1);
+}
+
+.praxisCardEyebrow {
+  color: var(--primary);
+  font-weight: 1000;
+  font-size: 1.5rem;
+}
+
+.praxisCardHeading {
+  font-size: 2rem;
+}
+
+.praxisCardText {
+  font-size: 1.2rem;
+}
+
+/* End Styling Praxisbrerich */
+
+/* Styling Double Card Bereich */
+
+.mistakes {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 60px;
+  padding: 60px;
+}
+
+.mistakesCard {
+  background: white;
+  padding: 40px;
+  border-radius: 30px;
+  border: solid 1px var(--cardOutline);
+  box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.1);
+}
+
+.mistakesCardEyebrow {
+  color: var(--primary);
+  font-size: 2rem;
+  font-weight: 1000;
+}
+
+.mistakesCardHeading {
+  font-size: 2rem;
+}
+
+.mistakesCardText {
+  font-size: 1.5rem;
+}
+
+/* End Styling Mistakes */
+
+/* Start Hinweis Styling */
+
+.hinweis {
+  padding: 60px;
+}
+
+.hinweisCard {
+  background-color: var(--secundary);
+  padding: 40px;
+  border-radius: 30px;
+  border: solid 1px var(--cardOutline);
+  box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.1);
+}
+
+.hinweisEyebrow {
+  background-color: var(--background);
+  color: var(--primary);
+  width: fit-content;
+  font-size: 2rem;
+  font-weight: 1000;
+  font-style: italic;
+}
+
+.hinweisHeading {
+  font-size: 3rem;
+  color: var(--background);
+}
+
+.hinweisText {
+  color: var(--background);
+  font-size: 2rem;
+}
