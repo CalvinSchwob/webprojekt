@@ -257,7 +257,7 @@ header .callToAction {
 .intentionKachelImg {
       width: 448px;
     height: 357px;
-    background: url(./img/figma/modirad.jpeg);
+    background: url(https://iili.io/Cqd0Xtt.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -352,7 +352,7 @@ header .callToAction {
 }
 
 .topicIcon1 {
-  background-image: url(./img/figma/lancier-rose-7698947.png);
+  background-image: url(https://iili.io/Cqd0klf.png);
   width: 64px;
   height: 64px;
   background-repeat: no-repeat;
@@ -363,7 +363,7 @@ header .callToAction {
 }
 
 .topicIcon2 {
-  background-image: url(./img/figma/himbeere_ausgeschnitten_genau.png);
+  background-image: url(https://iili.io/Cqd0WNI.png);
   width: 64px;
   height: 64px;
   background-repeat: no-repeat;
@@ -374,18 +374,7 @@ header .callToAction {
 }
 
 .topicIcon3 {
-  background-image: url(./img/figma/schmetterling_blau_freigestellt.png);
-  width: 64px;
-  height: 64px;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: contain;
-  border: solid 1px var(--cardOutline);
-  border-radius: 100px;
-}
-
-.topicIcon4 {
-  background-image: url(./img/figma/dalie_ausgeschnitten.png);
+  background-image: url(https://iili.io/Cqd06x9.png);
   width: 64px;
   height: 64px;
   background-repeat: no-repeat;
@@ -509,7 +498,7 @@ header .callToAction {
   border: #2A2A2A solid 1px;
   justify-self: center;
   border-radius: 1000px;
-  background-image: url(./img/figma/profilbild.jpeg);
+  background-image: url(https://iili.io/Cqd0wVn.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -649,7 +638,7 @@ header .callToAction {
 .footerIcon {
   width: 80px;
   height: 80px;
-  background-image: url(./img/figma/dalie_ausgeschnitten.png);
+  background-image: url(https://iili.io/Cqd0iiu.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
@@ -828,20 +817,56 @@ header .callToAction {
 }
 
 .sliderImg {
-  background-image: url(./img/figma/modirad.jpeg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
   border-radius: 30px;
   box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.1);
 }
 
 .sliderImgRight {
-  grid-area: img1;
+  grid-area: img2;
+  background-image: url(https://www.adobe.com/de/creativecloud/photography/discover/media_1b42b63b15e342b59b1b112d3384cac710b45280a.jpg?width=2000&format=webply&optimize=medium);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
 
 .sliderImgLeft {
+  grid-area: img1;
+  background-image: url(https://www.adobe.com/de/creativecloud/photography/discover/media_1b5fd0e4d1621a9ccdb0a73f3a8f57aaf7a25ab6a.jpg?width=2000&format=webply&optimize=medium);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.sliderImgLeftIso {
+  grid-area: img1;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/d/d1/Dynax_7D_iso100.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.sliderImgRightIso {
+  grid-area: img1;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e9/Dynax_7D_iso3200.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.sliderImgLeftBlendwert {
+  grid-area: img1;
+  background-image: url(https://www.adobe.com/de/creativecloud/photography/discover/media_1e2fbc6b8d0526ebf106c50a221655ca95b4f1e39.png?width=2000&format=webply&optimize=medium);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.sliderImgRightBlendwert {
   grid-area: img2;
+  background-image: url(https://www.adobe.com/de/creativecloud/photography/discover/media_1aca2735afc0b416246bbf68de22b31ee39058920.png?width=2000&format=webply&optimize=medium);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
 
 .sliderEyebrow {
