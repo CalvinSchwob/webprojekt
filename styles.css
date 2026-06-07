@@ -906,6 +906,7 @@ header .callToAction {
   display: flex;
   flex-direction: column;
   gap: 60px;
+  padding: 60px;
 }
 
 .praxisCard {
@@ -934,3 +935,66 @@ header .callToAction {
 
 /* Styling Double Card Bereich */
 
+.mistakes {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 60px;
+  padding: 60px;
+}
+
+.mistakesCard {
+  background: white;
+  padding: 40px;
+  border-radius: 30px;
+  border: solid 1px var(--cardOutline);
+  box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.1);
+}
+
+.mistakesCardEyebrow {
+  color: var(--primary);
+  font-size: 2rem;
+  font-weight: 1000;
+}
+
+.mistakesCardHeading {
+  font-size: 2rem;
+}
+
+.mistakesCardText {
+  font-size: 1.5rem;
+}
+
+/* End Styling Mistakes */
+
+/* Start Hinweis Styling */
+
+.hinweis {
+  padding: 60px;
+}
+
+.hinweisCard {
+  background-color: var(--secundary);
+  padding: 40px;
+  border-radius: 30px;
+  border: solid 1px var(--cardOutline);
+  box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.1);
+}
+
+.hinweisEyebrow {
+  background-color: var(--background);
+  color: var(--primary);
+  width: fit-content;
+  font-size: 2rem;
+  font-weight: 1000;
+  font-style: italic;
+}
+
+.hinweisHeading {
+  font-size: 3rem;
+  color: var(--background);
+}
+
+.hinweisText {
+  color: var(--background);
+  font-size: 2rem;
+}
